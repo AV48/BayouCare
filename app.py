@@ -1,5 +1,6 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
+import pandas as pd
 #pip install googlemaps
 #import os
 #import googlemaps
@@ -15,7 +16,6 @@ from huggingface_hub import InferenceClient
 # (Settings -> Variables and secrets -> New secret).
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
-
 
 def respond(message, history):
     messages = [{"role": "system", "content": "You are a friendly chatbot."}]
@@ -65,7 +65,7 @@ def preprocess_text(text):
 # Call the preprocess_text function and store the result in a cleaned_chunks variable
 cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
-print(cleaned_chunks)
+pd.read_csv(cleaned_chunks)
 
 chatbot = gr.ChatInterface(respond)
 
