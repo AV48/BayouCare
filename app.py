@@ -27,16 +27,15 @@ def respond(message, history):
 
     response = client.chat_completion(
         messages,
-        max_tokens=20,
-        temperature= 2
+        max_tokens=100,
     )
 
     return response.choices[0].message.content.strip()
 
-# Open the water_cycle.txt file in read mode with UTF-8 encoding
+
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
-  # Read the entire contents of the file and store it in a variable
-  knowledgebase = file.read()
+
+knowledgebase = file.read()
 
 print(knowledgebase)
 
