@@ -38,28 +38,28 @@ with open("knowledgebase.txt", "r", encoding="utf-8") as file:
     knowledgebase = file.read()
 
 def preprocess_text(text):
-  # Strip extra whitespace from the beginning and the end of the text
+# Strip extra whitespace from the beginning and the end of the text
   cleaned_text = text.strip()
 
-  # Split the cleaned_text by every newline character (\n)
+# Split the cleaned_text by every newline character (\n)
   chunks = cleaned_text.split("\n")
 
-  # Create an empty list to store cleaned chunks
+# Create an empty list to store cleaned chunks
   cleaned_chunks = []
 
-  # Write your for-in loop below to clean each chunk and add it to the cleaned_chunks list
+# Write your for-in loop below to clean each chunk and add it to the cleaned_chunks list
   for chunk in chunks:
     stripped_chunk = chunk.strip()
     if len(stripped_chunk) > 0:
       cleaned_chunks.append(stripped_chunk)
 
-  # Print cleaned_chunks
+# Print cleaned_chunks
   print(cleaned_chunks)
 
-  # Print the length of cleaned_chunks
+# Print the length of cleaned_chunks
   print(len(cleaned_chunks))
 
-  # Return the cleaned_chunks
+# Return the cleaned_chunks
   return cleaned_chunks
 
 # Call the preprocess_text function and store the result in a cleaned_chunks variable
