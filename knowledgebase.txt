@@ -1,0 +1,546 @@
+														
+Site Name	Services Delivered at Site	Health Center Type	Health Center Location Type	Health Center Location Setting	State	Address	City	ZIP
+PHSC WELLNESS CLINIC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2915 Betin Ave	Monroe	71201-7257
+Delhi Community Health Center	No	Administrative	Permanent	All Other Clinic Types	LA	109 Elm St	Delhi	71232-2844
+Bolton High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	2101 Vance Ave	Alexandria	71301-6059
+DePaul Community Health Centers - Eleanor McMain Secondary School	Yes	Service Delivery Site	Seasonal	School	LA	5712 S Claiborne Ave	New Orleans	70125-4999
+Plaquemines Primary Care Mobile Health Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	27136 Highway 23	Port Sulphur	70083
+PHSC FAMILY JUSTICE CENTER CLINIC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	620 Riverside Dr	Monroe	71201-6211
+Daughters of Charity Health Center - New Orleans East	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	5630 Read Blvd	New Orleans	70127-3106
+Southeast Community Health Systems - Jewel M. Sumner High School-Based	Yes	Service Delivery Site	Seasonal	School	LA	15841 Highway 440	Kentwood	70444-6986
+Paradise Elementary School-Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	5010 Monroe Hwy	Ball	71405-3618
+BRPCC Mobile Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	"2013 Central Rd, Suite B"	Baton Rouge	70807-3944
+InclusivCare-Marrero	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	7001 Lapalco Blvd	Marrero	70072-4503
+RKM Primary Care Springfield	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	27124 Highway 42	Springfield	70462
+St. Thomas Community Wellness Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	2010 Magazine St	New Orleans	70130-5018
+Progress Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	855 Progress Rd	Baton Rouge	70807-3399
+Life Coast Community Health Center Administration Office	No	Administrative	Permanent	Unknown	LA	"100 Ramey Rd, Suite A"	Houma	70360-4091
+All Kids Pediatrics of Opelousas	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	920 N Main St	Opelousas	70570-6402
+Joshua Butler School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	300 Fourth St	Westwego	70094-4335
+Forest Hill Junior High School Based Clinica	Yes	Service Delivery Site	Seasonal	School	LA	15 Highway 497	Forest Hill	71430-8701
+OHCC - Main - 3801 North Blvd	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3801 North Blvd	Baton Rouge	70806-3825
+RKM at North Corbin Jr High	Yes	Service Delivery Site	Seasonal	School	LA	32725 N Corbin Rd	Walker	70785
+"CASSE-Shreveport Pediatrics, OB/GYN, Dentistry, and Behavioral Health"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"2120 Bert Kouns Industrial Loop, Suite A"	Shreveport	71118-3351
+Ferriday Health West	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	112 Serio Blvd	Ferriday	71334-2013
+MSA-West Academy	Yes	Service Delivery Site	Seasonal	School	LA	57955 Saint Louis Rd	Plaquemine	70764-6624
+"Outpatient Medical Center, Inc. @ Tallulah"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	804 N Beech St	Tallulah	71282
+RKM at North Corbin Elementary	Yes	Service Delivery Site	Seasonal	School	LA	32645 N Corbin Rd	Walker	70785-4609
+Jonesville Medical Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	904 First St	Jonesville	71343-2191
+RKM at Tucker Memorial Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	310 S 3rd St	Ponchatoula	70454-2702
+Ball Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	89 Camp Livingston Rd	Ball	71405-3217
+Island Medical & Dental	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	307 Chisum St	Sicily Island	71368-4807
+Merryville Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	567 Walker St	Merryville	70653
+Life Coast Community Health Center Pharmacy	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	605 Enterprise Dr STE D	Houma	70360-5405
+Lessie Moore Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	207 Griffith St	Pineville	71360-5267
+Vernon Parish Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	298 Nolan Trce	Leesville	71446-3912
+Southeast Community Health Systems - Independence	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	336 E Railroad Ave	Independence	70443-2710
+North Iberville School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	13770 LA-77	Maringouin	70757
+Martin Park Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	4203 Lisa St	Alexandria	71302-2413
+Southeast Community Health Systems - Kentwood Location	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	721 Avenue G	Kentwood	70444-2601
+"EXCELth, Inc. Dental Clinic - Algiers"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1111 Newton St	New Orleans	70114-2500
+David Raines Community Health Center-Mobile Medical Unit#1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1625 David Raines Rd	Shreveport	71107-5899
+"Baton Rouge Primary Care Collaborative, Inc. - Jewel Newman"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"2013 Central Rd, Suite B"	Baton Rouge	70807-3944
+Plainview High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	10935 Highway 112	Glenmora	71433-6235
+MSA Academy-East SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1825 Highway 30	Saint Gabriel	70776
+Catahoula Parish Hospital Sevice District No 2 Administrative Service Site	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	710 Chisum St	Sicily Island	71368
+PRIMARY HEALTH SERVICES CENTER	No	Administrative	Permanent	Unknown	LA	2913 Betin Ave	Monroe	71201-7257
+INNIS COMMUNITY HEALTH CENTER	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	6450 LA Highway 1	Batchelor	70715-3212
+Rapides Primary Health Care Center-Browns Bend Site	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	605 Browns Bend Rd	Alexandria	71303-4154
+Avoyelles High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	287 Main St	Moreauville	71355-2500
+SWLA Center for Health Services - Lafayette	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	500 Patterson St	Lafayette	70501-1849
+CommuniHealth Services - Mobile Unit #2 (BCHC)	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	314 N Franklin St	Bastrop	71220-3846
+CareSouth at Iberville Charter Academy	Yes	Service Delivery Site	Seasonal	School	LA	24360 Enterprise Blvd	Plaquemine	70764-6628
+RKM at Ponchatoula Junior High School	Yes	Service Delivery Site	Seasonal	School	LA	315 E Oak St	Ponchatoula	70454-2632
+OHCC - Colonial	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	781 Colonial Dr	Baton Rouge	70806-6512
+"CAPITOL CITY FAMILY HEALTH CENTER, INC."	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	3140 Florida St	Baton Rouge	70806-3757
+Tooth Bus B	Yes	Service Delivery Site	Mobile Van	School	LA	5630 Read Blvd	New Orleans	70127-3106
+Southeast Community Health Systems - Port Hudson School	Yes	Service Delivery Site	Seasonal	School	LA	205 Flonacher Rd	Zachary	70791
+Family Medical Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	326 N Hood St	Lake Providence	71254-2140
+Peabody School-Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	2727 Jones Ave	Alexandria	71302-5600
+RKM at Champ Cooper Elementary	Yes	Service Delivery Site	Seasonal	School	LA	42530 Highway 445	Ponchatoula	70454-5562
+Rosenwald Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	1100 New Roads St	New Roads	70760-2300
+RKM at Hammond High Magnet	Yes	Service Delivery Site	Seasonal	School	LA	45168 River Rd	Hammond	70401-4222
+Start Community Health Center - Downtown Mandeville	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2150 General Pershing St	Mandeville	70448-5125
+RKM at Walker Elementary	Yes	Service Delivery Site	Seasonal	School	LA	13327 Wildcat Dr	Walker	70785-7325
+Winnfield Senior High School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	631 Thomas Mill Rd	Winnfield	71483-6063
+RKM Primary Care Livingston	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	28315 S Frost Rd	Livingston	70754-2612
+Mobile Unit 1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	9516 Airline Hwy	Baton Rouge	70815-5598
+Teche Health @ Houma West	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1014 W Tunnel Blvd	Houma	70360-4050
+Carter C. Raymond Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	2510 St Charles Ave	Lecompte	71346
+LIVONIA COMMUNITY HEALTH CENTER Administration	No	Administrative	Permanent	All Other Clinic Types	LA	3041 Fordoche Rd	Livonia	70755-3303
+RKM at Amite Westside Magnet	Yes	Service Delivery Site	Seasonal	School	LA	401 E Oak St	Amite	70422-2821
+"DAVID RAINES COMMUNITY HEALTH CENTER, INC. - HAYNESVILLE"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1953 Main St	Haynesville	71038-4907
+CrescentCare St. Roch	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	1631 Elysian Fields Ave	New Orleans	70117-8208
+CareSouth @ Howell	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	7855 Howell Blvd	Baton Rouge	70807-5256
+DePaul Community Health Center – St. Charles	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1523 Saint Charles Ave	New Orleans	70130-4445
+CommuniHealth Services Bastrop High School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	402 Highland Ave	Bastrop	71220-2241
+Northwood SBHC	Yes	Service Delivery Site	Seasonal	School	LA	8830 Highway 1 N	Lena	71447-9680
+South Broad Community Health	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3300 S Broad St	New Orleans	70125-2942
+AHL Eye Associates of West Jefferson	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"1111 Medical Center Blvd, Ste N213"	Marrero	70072-3153
+Teche Health @ Sugarland	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	5642 W Main St	Houma	70360-1250
+St Thomas CHC at 1936-1938 Magazine Street	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1936 Magazine St	New Orleans	70130-5016
+Horseshoe Drive Elementary	Yes	Service Delivery Site	Seasonal	School	LA	2905 Horseshoe Dr	Alexandria	71301-2500
+Dalton Elementary Healthy Students	Yes	Service Delivery Site	Seasonal	School	LA	3605 Ontario St	Baton Rouge	70805-5800
+DePaul Community Health Centers - Westbank Expressway	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1629 Westbank Expy	Harvey	70058-4363
+St Tammany Community Health Center - Slidell	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	501 Robert Blvd	Slidell	70458-1667
+CommuniHealth Services Riser Middle School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	100 Price Dr	West Monroe	71292-6399
+"CommuniHealth Services Marion Family Practice, Dental & Behavioral Health Center"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	335 Main St	Marion	71260-5253
+St. Tammany Slidell CHC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	113 Christian Ln	Slidell	70458-1350
+Mercy Medical Admin Only Site	No	Administrative	Permanent	All Other Clinic Types	LA	4693 Quitman Hwy	Jonesboro	71251
+RKM at DC Reeves Elementary	Yes	Service Delivery Site	Seasonal	School	LA	18026 Sisters Rd	Ponchatoula	70454-8848
+Teche Health SBHC @ East St. John High School	Yes	Service Delivery Site	Permanent	School	LA	1 Wildcat Dr	Reserve	70084-5800
+Mercy Medical Health Center and Mercy Medicine Pharmacy	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	244 Bond St	Jonesboro	71251-5334
+Alexandria Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3425 North Blvd	Alexandria	71301-3676
+Life Coast Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	504 N Acadia Rd	Thibodaux	70301-4862
+Winn CHC Pharmacy Services	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	100 W Main St	Winnfield	71483-3239
+Haynes Academy SBHC	Yes	Service Delivery Site	Seasonal	School	LA	4301 Grace King Pl	Metairie	70002-3199
+Priority Health Care Gretna	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	12 Westbank Expy	Gretna	70053-3647
+Southeast Community Health Systems - Northwestern Elementary	Yes	Service Delivery Site	Seasonal	School	LA	4200 Pope Rd	Zachary	70791
+David Raines Community School Based Health Center- Bossier High School	Yes	Service Delivery Site	Permanent	School	LA	777 Bearkat Dr	Bossier City	71111-4565
+Bonnabel High School SBHC Mental Health Services	Yes	Service Delivery Site	Seasonal	School	LA	2801 Bruin Dr	Kenner	70065-4707
+Destrehan High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1 Wildcat Ln	Destrehan	70047-4001
+Harry S. Truman School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	5417 Ehret Rd	Marrero	70072-5363
+Ruston Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	200 N Bernard St	Ruston	71270-4099
+RAPIDES PRIMARY HEALTH CARE CENTER	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	1217 Willow Glen River Rd	Alexandria	71302-5458
+Access Health Louisiana Primary Care at the Pythian	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	234 Loyola Ave	New Orleans	70112-2026
+Kenner Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"819 W Esplanade Ave, Suite B"	Kenner	70065-6291
+Oakdale School-Based Health Center	Yes	Service Delivery Site	Seasonal	All Other Clinic Types	LA	124 S 13th St BLDG 2	Oakdale	71463-2935
+Catherine Strehle Elementary School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	178 Millie Dr	Westwego	70094-2899
+Southeast Community Health Systems-Independence Administrative	No	Administrative	Permanent	All Other Clinic Types	LA	13318 Berry Bowl Rd	Independence	70443-2363
+Fisher Middle High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	2590 Barataria Blvd	Marrero	70072-5304
+CommuniHealth Services - Monroe Community Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	1825 N 18th St STE A	Monroe	71201-4420
+Mobile Unit #2	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	6450 LA Highway 1	Batchelor	70715-3212
+Southeast Community Health Systems - Kentwood High School School-Based	Yes	Service Delivery Site	Seasonal	School	LA	603 9th St	Kentwood	70444-2399
+David Raines School Based Health Center - Linwood	Yes	Service Delivery Site	Seasonal	School	LA	401 W 70th St	Shreveport	71106-3034
+CommuniHealth Services Union Parish High School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	1126 Marion Hwy	Farmerville	71241-9305
+David Raines School Based Health Center - Woodlawn	Yes	Service Delivery Site	Seasonal	School	LA	7340 Wyngate Blvd	Shreveport	71106-3998
+Jefferson Community Health Care Centers-Grand Isle	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3101 Highway 1	Grand Isle	70358-9753
+Access Health Louisiana Kenner	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	2900 Indiana Ave	Kenner	70065-4605
+Tensas Dental Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	406 Levee Rd	Saint Joseph	71366-6661
+Community Health Institute Mobile Health Care	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	907 Polk St	Mansfield	71052-2520
+Capitol Middle School	Yes	Service Delivery Site	Seasonal	School	LA	5100 Greenwell Springs Rd # Ab	Baton Rouge	70806-1603
+RKM at South Fork Elementary	Yes	Service Delivery Site	Seasonal	School	LA	23300 Walker South Rd	Denham Springs	70726-8202
+Poland Junior High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	3348 Highway 457	Alexandria	71302-9258
+Rapides High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	9463 Highway 71 S	Lecompte	71346-4760
+EXCELth Family Health Center - Algiers	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	4422 General Meyer Ave STE 103	New Orleans	70131-4330
+CommuniHealth Services - Monroe Community Health Center (Louisville Ave)	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1205 Louisville Ave	Monroe	71201-6019
+Mercy Medical Health Center of Arcadia and Mercy Medicine of Arcadia	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"600 Factory Outlet Dr, Ste 12"	Arcadia	71001-3057
+Tensas Health Mobile	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	402 Levee Rd	Saint Joseph	71366-6661
+CommuniHealth Services - West Monroe Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	420 Wheelis St	West Monroe	71292-3940
+SWLA Center For Health Services - Oberlin	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	112 N 6th St	Oberlin	70655-6109
+CareSouth Dermatology	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	20474 Old Scenic Hwy	Zachary	70791-7365
+Lincoln Community  Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1140 S Vienna St	Ruston	71270-5834
+Upper Pointe Coupee Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	4739 LA Highway 419	Batchelor	70715-3472
+RKM at North Live Oak Elementary	Yes	Service Delivery Site	Seasonal	School	LA	36605 Outback Rd	Denham Springs	70706-8545
+Southeast Community Health Systems - Greensburg Location	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	Sitman	Greensburg	70441
+East Iberville Elementary High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	3285 Highway 75	Saint Gabriel	70776-4409
+SWLA Center for Health Services--DeBakey Drive Temporary Location	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	501 Doctor Michael Debakey Dr	Lake Charles	70601-5784
+Jefferson Community Health Care Centers DBA Inclusivcare-Your Dental Mobile Home	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	4028 Highway 90 W	Westwego	70094-2622
+Teche Health @ Houma East	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	189 Mozart Dr	Houma	70363-7990
+St. Thomas Community Health Center Administrative & Service Site	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	2042 Magazine St	New Orleans	70130-5018
+Livonia High School	Yes	Service Delivery Site	Seasonal	School	LA	3118 La Highway 78	Livonia	70755-3400
+CareSouth Pediatric and WIC Services	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3324 Florida St	Baton Rouge	70806-3761
+Pineville Elementary School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	835 Main St	Pineville	71360-6499
+Daughters of Charity Health Center -  Gentilly	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	100 Warrington Dr	New Orleans	70122-3000
+TENSAS COMMUNITY HEALTH CENTER	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	402 Levee Rd	Saint Joseph	71366-6661
+AHL Iberville Alternative Positive Program for Students SBHC	Yes	Service Delivery Site	Seasonal	School	LA	23435 East St	Plaquemine	70764-2563
+Jena Jr High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	610 E Southern Ave	Jena	71342-4507
+NOELA Community Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	13085 Chef Menteur Hwy	New Orleans	70129-9998
+Buckeye High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	715 Highway 1207	Deville	71328-8505
+DePaul Community Health Centers - Delgado Community College	Yes	Service Delivery Site	Permanent	School	LA	615 City Park Ave	New Orleans	70119-4399
+David Raines CHC Mobile Med Unit #2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1625 David Raines Rd	Shreveport	71107-5899
+Common Ground Health Clinic-Gretna	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	441 Wall Blvd	Gretna	70056-7723
+RKM at Loranger Elementary	Yes	Service Delivery Site	Seasonal	School	LA	54101 Martin St	Loranger	70446
+PHSC MOBILE HEALTH CLINIC #1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	2913 Desiard St	Monroe	71201-7207
+CommuniHealth Services West Monroe High School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	201 Riggs St	West Monroe	71291-2640
+Southeast Community Health Systems - Albany Location	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	30575 Old Baton Rouge Hwy	Hammond	70403
+Baptist Community Health Services- Mandeville	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1445 W Causeway Approach	Mandeville	70471-3045
+Teche Health @ Pierre Part	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3528 Highway 70 S	Pierre Part	70339-4452
+Kenner Community Health Center 671	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	671 W Esplanade Ave	Kenner	70065-2794
+Caroline Dormon Junior High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	8906 Highway 165 S	Woodworth	71485-9782
+Albert Cammon Wellness Center  AKA St Rose School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	232 Pirate Dr	Saint Rose	70087-3616
+DePaul Community Health Centers - Homer Plessy Treme Campus	Yes	Service Delivery Site	Seasonal	School	LA	1423 Saint Philip St	New Orleans	70116-2933
+I.A. Lewis School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1000 Mitchell Ave	Ruston	71270-5599
+"Pinnacle Family Health, Inc."	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	101 Crosley St	West Monroe	71291-2913
+St. Thomas Community Health Center - Holiday Drive	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3500 Holiday Dr	New Orleans	70114-8229
+Bossier Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"2890 Douglas Dr, Ste 100"	Bossier City	71111-5806
+DCHC SBHC BEHAVIORAL HEALTH SERVICES-MANGHAM	Yes	Service Delivery Site	Seasonal	School	LA	419 Hixon St	Mangham	71259-5029
+Winn Community Billing Office	No	Administrative	Permanent	All Other Clinic Types	LA	427 W Lafayette St	Winnfield	71483
+Eunice Junior High School	Yes	Service Delivery Site	Seasonal	School	LA	751 W Oak Ave	Eunice	70535-5252
+Health Care for the Homeless-The Ozanam Inn	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2239 Poydras St	New Orleans	70119-7561
+Tulane Adolescent Drop-In Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	611 N Rampart St	New Orleans	70112-3505
+RKM at Denham Springs Junior High	Yes	Service Delivery Site	Seasonal	School	LA	401 Hatchell Ln	Denham Springs	70726-3036
+RKM at Live Oak Elementary	Yes	Service Delivery Site	Seasonal	School	LA	35194 Old LA Highway 16	Denham Springs	70706
+OHHC Dental	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3905 Convention St	Baton Rouge	70806-3806
+Tioga Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	4310 Pardue Rd	Ball	71405-1918
+Claiborne Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	4707 Denham St RM C205	Baton Rouge	70805-1622
+DePaul Community Health Center - Central City	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1300 Oretha Castle Haley Blvd	New Orleans	70113-1289
+DePaul Community Health Centers - St. Therese Academy	Yes	Service Delivery Site	Seasonal	School	LA	5601 Elysian Fields Ave	New Orleans	70122-4225
+Jefferson Community Health Care Centers DBA InclusivCare-RFK Lafitte Medical Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	5140 Church St	Lafitte	70067-5256
+Conference Center	No	Administrative	Permanent	All Other Clinic Types	LA	429 W Lafayette St	Winnfield	71483-3463
+AHL Dorseyville Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	31505 Highway 1	White Castle	70788-3628
+CommuniHealth Services - Mental Health and Substance Use Disorder Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1205 Royal Ave	Monroe	71201-5603
+Daughters of Charity Health Center - Carrollton	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	3201 S Carrollton Ave	New Orleans	70118-4307
+BCHS Mobile Unit #2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	4960 Saint Claude Ave	New Orleans	70117-4258
+RKM at Maurepas School	Yes	Service Delivery Site	Seasonal	School	LA	23923 Highway 22	Maurepas	70449-3524
+Pineville Jr High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	501 Edgewood Dr	Pineville	71360-4524
+Acadian Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	310 Richmond Dr	Alexandria	71302-5150
+RKM at Hammond Eastside Upper Elementary	Yes	Service Delivery Site	Seasonal	School	LA	43052 Yokum Rd	Hammond	70403-6351
+DePaul Community Health Centers - Pierre Capdua Charter School	Yes	Service Delivery Site	Seasonal	School	LA	5800 Saint Roch Ave	New Orleans	70122-5336
+Delhi Community Health Center SBHC Mobile Dental Services.	Yes	Service Delivery Site	Mobile Van	School	LA	501 Broadway St	Delhi	71232-3001
+RKM at Loranger Middle School	Yes	Service Delivery Site	Seasonal	School	LA	54123 Allman St	Loranger	70446-3451
+RKM at Juban Parc Elementary	Yes	Service Delivery Site	Seasonal	School	LA	12555 Brown Rd	Denham Springs	70726-6931
+DePaul Community Health Centers - Dwight D. Eisenhower Charter School	Yes	Service Delivery Site	Seasonal	School	LA	3700 Tall Pines Dr	New Orleans	70131-8432
+RKM at Springfield Elementary School	Yes	Service Delivery Site	Seasonal	All Other Clinic Types	LA	25190 Blood River Rd	Springfield	70462-8077
+Martin Behrman Charter School	Yes	Service Delivery Site	Permanent	School	LA	715 Opelousas Ave	New Orleans	70114-2499
+"Outpatient Medical Center, Inc. @ Leesville"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	908 S 10th St	Leesville	71446-4614
+RKM at Levi Milton Elementary	Yes	Service Delivery Site	Seasonal	School	LA	31450 Walker Rd N	Walker	70785-5105
+St. Tammany Mandeville CHC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1150 W Causeway Approach	Mandeville	70471-3038
+CareSouth Urology	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	7777 Hennessy Blvd	Baton Rouge	70808-4300
+Priority Health Care - Administration	No	Administrative	Permanent	All Other Clinic Types	LA	"4700 Wichers Dr, Suite 306"	Marrero	70072-3054
+Teche Health - Administrative Location	No	Administrative	Permanent	All Other Clinic Types	LA	1100 Weber St	Franklin	70538-4125
+JACKSON COMPLEX HEALTH CENTER	Yes	Service Delivery Site	Permanent	School	LA	3619 Highway 10	Jackson	70748-6237
+Plaquemines Primary Care Mobile Health Unit #2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	27136 Highway 23	Port Sulphur	70083
+Alexandria Senior High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	800 Ola St	Alexandria	71303-2396
+Lanier Elementary Healthy Students	Yes	Service Delivery Site	Seasonal	School	LA	4705 Lanier Dr	Baton Rouge	70812-4020
+"EXCELth, Inc. FHC - BATON ROUGE"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"730 Colonial Dr, Suite E"	Baton Rouge	70806-6536
+RKM at Hammond Westside Montessori	Yes	Service Delivery Site	Seasonal	School	LA	2600 PFC Matthew E Wildes St  RM 703	Hammond	70403
+Plaquemine High School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	59595 Belleview Rd	Plaquemine	70764-6500
+St. Thomas Community Health Center - West Bank	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	230 Ochsner Blvd	Gretna	70056-5246
+East Grant Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	9465 Highway 165	Pollock	71467-3511
+Rapides Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2200 N Bolton Ave	Alexandria	71303-4407
+RKM at Roseland Elementary	Yes	Service Delivery Site	Seasonal	School	LA	12516 Time Ave	Roseland	70456-2671
+PHSC School Based Health Center- Carroll Jr. High School	Yes	Service Delivery Site	Seasonal	School	LA	2945 Renwick St	Monroe	71201-8146
+NOELA Wellness Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	13101 Chef Menteur Hwy	New Orleans	70129-1806
+Southeast Community Health Systems - Rollins Place Elementary	Yes	Service Delivery Site	Seasonal	School	LA	4488 Rollins Place Rd	Zachary	70791-2253
+St. Thomas Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1020 Saint Andrew St	New Orleans	70130-5022
+David Raines Community Health Center Administration	No	Administrative	Permanent	All Other Clinic Types	LA	3041 Dr Martin Luther King Dr	Shreveport	71107-4705
+RKM at Westside Jr High	Yes	Service Delivery Site	Seasonal	School	LA	12615 Burgess Ave	Walker	70785-7211
+Kenner Community Health Center at Esplanade Mall	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1401 W Esplanade Ave	Kenner	70065-2845
+PHSC S D HILL CLINIC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	850 S 2nd St	Monroe	71202-2112
+Winn Community Administrative Office	No	Administrative	Permanent	All Other Clinic Types	LA	426 W Lafayette St	Winnfield	71483-3432
+Acadiana Cares	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	809 Martin Luther King Jr Dr	Lafayette	70501-1884
+Iberville Elementary School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	58650 Iron Farm Rd	Plaquemine	70764-3024
+Delhi Community Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	501 Broadway St	Delhi	71232-3001
+J.B. Nachman Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	4102 Wakefield Blvd	Alexandria	71303-2936
+Glen View Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1601 Bittersweet Ave	Ruston	71270-2098
+Southeast Community Health Systems - St. Helena Head Start	Yes	Service Delivery Site	Seasonal	School	LA	77 Greensburg St	Greensburg	70441-5201
+Oak Hill High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	7362 Highway 112	Elmer	71424-9534
+Tioga Jr High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1150 Tioga Rd	Ball	71405-3978
+OHCC - 3849 North Blvd	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3849 North Blvd	Baton Rouge	70806-3854
+David Raines School Based Health Center -  JS Clark	Yes	Service Delivery Site	Seasonal	School	LA	351 Hearne Ave	Shreveport	71103-2099
+CommuniHealth Services Mer Rouge Family Practice & Behavioral Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	108 N 16th St	Mer Rouge	71261-9726
+RKM at South Walker Elementary	Yes	Service Delivery Site	Seasonal	School	LA	13745 Milton Ln	Walker	70785-6312
+Valverda Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	1653 Valverda Rd	Maringouin	70757-5118
+RKM at French Settlement Elementary	Yes	Service Delivery Site	Seasonal	School	LA	15810 LA Highway 16	French Settlement	70733-2412
+IBERIA COMPREHENSIVE COMMUNITY HEALTH CENTER	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	806 Jefferson Ter	New Iberia	70560-5727
+Lakeview High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	7305 Highway 9	Campti	71411-4137
+DCHC SBHC MOBILE PRIMARY CARE-MANGHAM	Yes	Administrative/Service Delivery Site	Mobile Van	School	LA	419 Hixon St	Mangham	71259-5029
+RKM at Holden	Yes	Service Delivery Site	Seasonal	School	LA	30120 State Rte 441	Holden	70744-4201
+RKM at Perrin Early Learning Center	Yes	Service Delivery Site	Seasonal	School	LA	350 W Ash St	Ponchatoula	70454-3436
+Columbia Parc CHC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3943 Saint Bernard Ave	New Orleans	70122-1147
+EXCELth Family Health Center – Gentilly	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	6600 Franklin Ave STE A7	New Orleans	70122-5719
+J.I. Barron Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	3655 Trinity Church Rd	Pineville	71360-5499
+Rougon Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	13258 LA Highway 416	Rougon	70773-3606
+Beau Chene High School	Yes	Service Delivery Site	Seasonal	School	LA	7076 LA-93	Arnaudville	70512
+DCHC - The NET Charter High School: East	Yes	Service Delivery Site	Permanent	School	LA	12000 Hayne Blvd	New Orleans	70128-1184
+Ruby Wise Elementary School-Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	5279 Old Marksville Hwy	Pineville	71360-9067
+OHCC - 30789 Range Avenue	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	30789 N Range Ave	Denham Springs	70726-8973
+Montgomery Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	641 Rowena St	Montgomery	71454-5809
+CommuniHealth Services - Miller Roy Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"1001 Desiard St, Apartment 2"	Monroe	71201-7613
+DePaul Community Health Centers - Algiers	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2801 General Degaulle Dr	New Orleans	70114-6437
+Start Community Health Center - Covington	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1505 N Florida St	Covington	70433-1544
+Mobile Unit 1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1631 Elysian Fields Ave	New Orleans	70117-8208
+Delhi Community Health Center Dental Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	605 Broadway St	Delhi	71232-3101
+David Raines School Based Health Center - Fair Park Middle	Yes	Service Delivery Site	Seasonal	School	LA	3222 Greenwood Rd	Shreveport	71109-5235
+Mobile Dental Unit #2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	"9900 Lake Forest Blvd, Suite F"	New Orleans	70127-2609
+Cypress Springs Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1040 Saratoga St	Ruston	71270
+RKM at Caneview K-8 School	Yes	Service Delivery Site	Seasonal	School	LA	5217 McLin Rd	Port Allen	70767-5129
+Tangipahoa Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	Phyllis Ann Dr	Hammond	70403
+Abbeville Community Health Center Main Site	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1009 Charity St	Abbeville	70510-5302
+Brusly School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	630 N Vaughan Dr	Brusly	70719-2217
+Southeast Community Health Systems - Westminster Gardens	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	501 Edwin Neill Way	Hammond	70403-4053
+Belle Chasse Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	8200 Highway 23	Belle Chasse	70037-2607
+RKM at Northside Elementary	Yes	Service Delivery Site	Seasonal	School	LA	1090 Robbie St	Denham Springs	70726-2529
+West Jefferson School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	2200 8th St	Harvey	70058-4099
+CommuniHealth Services - Ouachita Parish High School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	681 Highway 594	Monroe	71203-8900
+Winn Community Dental Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	425 W Lafayette St	Winnfield	71483-3463
+Mobile Dental Clinic	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	9516 Airline Hwy	Baton Rouge	70815-5598
+Daughters of Charity Health Center - Higgins	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3303 Higgins Blvd	New Orleans	70126-5853
+Hahnville High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	200 Tiger Dr	Boutte	70039-3520
+Natchitoches Central High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	6513 Highway 1	Natchitoches	71457
+Grant Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	340 Webb Smith Dr	Colfax	71417
+DePaul Community Health Centers - Our Lady of Perpetual Help	Yes	Service Delivery Site	Seasonal	School	LA	531 Williams Blvd	Kenner	70062-7633
+Mobile Medical Unit #1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	3201 S Carrollton Ave	New Orleans	70118-4307
+Community Resource and Referral Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1530 Gravier St	New Orleans	70112-2104
+RKM at Loranger High School	Yes	Service Delivery Site	Seasonal	School	LA	19404 Hiatt St	Loranger	70446-3408
+RKM at Live Oak Jr High	Yes	Service Delivery Site	Seasonal	School	LA	35086 Old LA Highway 16	Denham Springs	70706-0556
+RKM at Doyle Elementary	Yes	Service Delivery Site	Seasonal	School	LA	29285 S Range Rd	Livingston	70754-2639
+RKM at Midway Elementary	Yes	Service Delivery Site	Seasonal	School	LA	48405 Hwy 51	Tickfaw	70466-1915
+Northside  Community Health Care	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1800 Louisiana Ave	Lafayette	70501-3702
+Clinton Lower Health Center (CLHC)	Yes	Service Delivery Site	Seasonal	All Other Clinic Types	LA	10701 Reiley St	Clinton	70722-3507
+DePaul Community Health Centers - St. Leo the Great School	Yes	Service Delivery Site	Seasonal	School	LA	1501 Abundance St	New Orleans	70119-2052
+DePaul Community Health Centers - Kenner	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"3715 Williams Blvd, Suite 102"	Kenner	70065-3066
+Winnfield Primary School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	403 W South Ave	Winnfield	71483-3423
+Teche Health @ Morgan City	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1124 7th St	Morgan City	70380-1951
+RKM at Eastside Elementary	Yes	Service Delivery Site	Seasonal	School	LA	9735 Lockhart Rd	Denham Springs	70726-8316
+WBR Primary Care at Port Allen Elementary	Yes	Service Delivery Site	Seasonal	School	LA	609 Rosedale Rd	Port Allen	70767-2199
+DePaul Community Health Centers - Audubon Gentilly School	Yes	Service Delivery Site	Seasonal	School	LA	4720 Painters St	New Orleans	70122-5004
+LW Higgins High School SBHC- Room 601	Yes	Service Delivery Site	Seasonal	School	LA	7201 Lapalco Blvd	Marrero	70072-4523
+L.S. Rugg Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1319 Bush Ave	Alexandria	71301-5100
+Tioga High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1207 Tioga Rd	Ball	71405-3989
+RKM at Southside Jr High	Yes	Service Delivery Site	Seasonal	School	LA	26535 LA Highway 16	Denham Springs	70726-5849
+CommuniHealth Services Morehouse Elementary School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	1001 W Madison Ave	Bastrop	71220-4331
+Baptist Community Health Services- Lower 9th Ward	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	4960 Saint Claude Ave	New Orleans	70117-4258
+Pointe Coupee Central School Based Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	8430 Pointe Coupee Rd	New Roads	70760
+SCHS-St. Helena College and Career Academy	Yes	Service Delivery Site	Seasonal	School	LA	14340 Highway 37	Greensburg	70441-5213
+Grant Jr and High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	17763 Highway 167	Dry Prong	71423-9205
+Southeast Community Health Systems - Zachary High School	Yes	Service Delivery Site	Seasonal	School	LA	4100 Bronco Ln	Zachary	70791-3024
+"Outpatient Medical Center, Inc. @ Natchitoches"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1640 Breazeale Springs St	Natchitoches	71457-4278
+Sabine Comprehensive Health Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1050 N Robinson St	Many	71449-3536
+Jena High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	243 E High School Dr	Jena	71342
+"Winn Community Health Center, Inc."	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	407 W Court St	Winnfield	71483-2743
+Sharon Hills Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	6450 Guynell Dr RM 101	Baton Rouge	70811-2335
+Surrey Street Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1004 Surrey St	Lafayette	70501-6143
+Warren Easton High School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	3036 Iberville St	New Orleans	70119-5420
+David Raines School Based Health Center - Atkins	Yes	Service Delivery Site	Seasonal	School	LA	7611 Saint Vincent Ave	Shreveport	71106-4231
+Southwest Louisiana Primary Health Care Center Mobile Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	8762 Highway 182	Opelousas	70570-5603
+CareSouth-Shreveport	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"8730 Youree Dr, Ste A"	Shreveport	71115-2518
+RKM at Independence High School	Yes	Service Delivery Site	Seasonal	School	LA	270 Tiger Ave	Independence	70443-2295
+Pineville High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1511 Line St	Pineville	71360-5096
+Livonia Community Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	8387 Newfield Dr STE B	Livonia	70755-3605
+SWLA Center for Health Services - Lake Charles	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	2000 Opelousas St	Lake Charles	70601-2641
+DePaul Community Health Centers - Alice M. Harte Charter School	Yes	Service Delivery Site	Seasonal	School	LA	5300 Berkley Dr	New Orleans	70131-7204
+Start Community Health Center - Galvez	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2300 S Galvez St	New Orleans	70125-3102
+PHSC School-Based Health Center- Wossman High School	Yes	Service Delivery Site	Permanent	School	LA	1600 Arizona Ave	Monroe	71202-3696
+Mercy Dental	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	900 S Vienna St	Ruston	71270-5830
+Baptist Community Health Services- Chalmette	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	221 W Genie St	Chalmette	70043-2125
+Teche Health SBHC @ West. St. Mary High School	Yes	Service Delivery Site	Seasonal	School	LA	18333 Highway 182	Baldwin	70514-1449
+Women's Pavilion	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1217 Willow Glen River Rd	Alexandria	71302-5458
+South Lafayette Parish Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	5605 Ambassador Caffery Pkwy	Youngsville	70592-5180
+David Raines Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3021 W 70th St	Shreveport	71108-4603
+CareSouth Medical Mobile Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	3140 Florida St	Baton Rouge	70806-3757
+David Raines School Based Health Center - OakPark	Yes	Service Delivery Site	Seasonal	School	LA	4331 Henry St	Shreveport	71109-6820
+Emmett Gilbert Elementary School-101	Yes	Service Delivery Site	Seasonal	School	LA	435 S Jamie Blvd	Westwego	70094-2860
+Ruston Junior High School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	481 Tarbutton Rd	Ruston	71270-9508
+Daughters of Charity Health Center - St. Cecilia	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1030 Lesseps St	New Orleans	70117-4736
+"Winn Community Health Center, Inc."	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	431 W Lafayette St	Winnfield	71483
+Southeast Community Health Systems - North Tangi Head Start	Yes	Service Delivery Site	Seasonal	School	LA	63508 Roch Rd	Roseland	70456-1816
+DePaul Community Health Center - Resurrection of Our Lord Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	4861 Rosalia Dr	New Orleans	70127-3562
+CASSE/Community Health Institute	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	907 Polk St	Mansfield	71052-2520
+Odyssey House Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1125 N Tonti St	New Orleans	70119-3598
+Frederick Douglass High School	Yes	Service Delivery Site	Permanent	School	LA	3820 Saint Claude Ave	New Orleans	70117-5797
+PHSC-GRAMBLING FAMILY HEALTH CENTER	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	7604 Highway 80	Ruston	71270-1164
+Teche Health @ Franklin	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	1115 Weber St	Franklin	70538-4124
+Provencal Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	132 Cherry St	Robeline	71469
+David Raines CHC School Based Health Center-Broadmoor Stem Academy	Yes	Service Delivery Site	Permanent	School	LA	441 Atlantic Ave	Shreveport	71105-2911
+Bienville Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3265 Military Rd	Ringgold	71068-2809
+RKM Primary Care	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	11990 Jackson St	Clinton	70722-3210
+Homeless Drop-In Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	153 N 17th St APT 162	Baton Rouge	70802-3801
+Capitol City Family Health Center @ Donaldsonville	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	904 Catalpa St	Donaldsonville	70346-2946
+RKM at Freshwater Elementary	Yes	Service Delivery Site	Seasonal	School	LA	1025 Cockerham Rd	Denham Springs	70726-2701
+RKM at Amite Elementary	Yes	Service Delivery Site	Seasonal	School	LA	301 Vernon Ave	Amite	70422-2840
+DePaul CHC - Homer A. Plessy Community School French Qtr 2nd Site	Yes	Service Delivery Site	Seasonal	School	LA	1651 N Tonti St	New Orleans	70119-2540
+St. Thomas CHC Medical Mobile Clinic	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1936 Magazine St	New Orleans	70130-5016
+Buckeye Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	642 Highway 1207	Deville	71328-9574
+Outpatient Behavioral Services	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1820 Ee Wallace Blvd N	Ferriday	71334-2265
+RKM at Southside Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	26535 LA Highway 16	Denham Springs	70726-5849
+Hillcrest Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	301 E Kentucky Ave	Ruston	71270-2599
+BCHS Mobile Unit #1	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	4960 Saint Claude Ave	New Orleans	70117-4258
+St. Martin Parish Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	317 Dernier St	Saint Martinville	70582-3809
+Comprehensive Care Center of Southwest Louisiana - Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1715 Common St	Lake Charles	70601-6135
+John Ehret School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	4300 Patriot St	Marrero	70072-4394
+"JEFFERSON COMMUNITY HEALTH CARE CENTERS, INC.DBA Inclusivcare"	No	Administrative	Permanent	All Other Clinic Types	LA	4028 US Hwy 90	Westwego	70094-2622
+Life Coast Community Health Center Houma	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"605 Enterprise Dr, Suite C"	Houma	70360-5405
+"Family Health Care Clinic, Inc.-Bogalusa"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	100 Red Cross Pl	Bogalusa	70427-3732
+Iberia Comprehensive Community Health Center Mobile Dental Unit	Yes	Service Delivery Site	Mobile Van	School	LA	806 Jefferson Ter	New Iberia	70560-5727
+Southeast Community Health Systems - Zachary Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	3775 Hemlock St	Zachary	70791-4499
+CommuniHealth Services - Mobile Unit #1 (BCHC)	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	314 N Franklin St	Bastrop	71220-3846
+Arbor Family Health Corporate	No	Administrative	Permanent	All Other Clinic Types	LA	2500 False River Dr	New Roads	70760-2512
+Plaquemines Primary Care	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	27136 Highway 23	Port Sulphur	70083
+Capitol City Family Health Center- Plaquemine (Iberville Parish)	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	59340 River West Dr	Plaquemine	70764-6553
+Stem Magnet Academy of Pointe Coupee	Yes	Service Delivery Site	Seasonal	School	LA	8434 Pointe Coupee Rd	New Roads	70760-4317
+RKM at South Live Oak Elementary	Yes	Service Delivery Site	Seasonal	School	LA	8400 Cecil Dr	Denham Springs	70706
+"EXCELTH, INC., HEALTH CARE NETWORK"	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	"1515 Poydras St, Suite 1070"	New Orleans	70112-4520
+Hayden R. Lawrence Upper Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	646 Highway 1207	Deville	71328-9574
+SCHS-St. Helena Arts and Technology Academy	Yes	Service Delivery Site	Seasonal	School	LA	1798 Highway 1042	Greensburg	70441-4241
+RKM at Natalbany Middle School	Yes	Service Delivery Site	Seasonal	School	LA	47370 N Morrison Blvd	Hammond	70401-7315
+CareSouth Mobile Dental Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	3140 Florida St	Baton Rouge	70806-3757
+Priority Health Care-Marrero	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"4700 Wichers Dr, Suite 304"	Marrero	70072-3054
+CommuniHealth Services - Bastrop Community Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	314 N Franklin St	Bastrop	71220-3846
+"David Raines Community Health Centers, Inc. - Bossier"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1514 Doctors Dr	Bossier City	71111-3379
+Avoyelles Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	338 Moreau St	Marksville	71351-2958
+Marthaville Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	10800 Highway 120	Marthaville	71450
+Chateau Estates Elementary School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	4121 Medoc Dr	Kenner	70065-1922
+Slaughter Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3166 Church St	Slaughter	70777-3219
+EXCELth Family Health Center - New Orleans East	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"9900 Lake Forest Blvd, Suite F"	New Orleans	70127-2609
+SWLA Center for Health Services - Crowley	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	526 Crowley Rayne Hwy	Crowley	70526-8209
+Alma Redwine Elementary School-Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1321 Vance Ave	Alexandria	71301-6154
+Start Community Health Center - Magnolia	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	420 Magnolia St	Houma	70360-6304
+Southeast Community Health Systems - Chesbrough School-Based	Yes	Service Delivery Site	Seasonal	School	LA	68495 Highway 1054	Kentwood	70444-6989
+L.B. Landry High School	Yes	Service Delivery Site	Permanent	School	LA	1200 L B Landry Ave	New Orleans	70114-2657
+Winnfield Physical Therapy	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	6252 Highway 167 N	Winnfield	71483-7835
+WBR Primary Care	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	203 Allendale Dr	Port Allen	70767-3219
+South Grant Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	21239 Highway 167	Dry Prong	71423
+Jefferson Community Health Care Centers DBA Inclusivcare-Avondale	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3932 Highway 90 W	Westwego	70094
+RKM at Amite High	Yes	Service Delivery Site	Seasonal	School	LA	403 S Laurel St	Amite	70422-3129
+AHL SBHC Paradis La.	Yes	Service Delivery Site	Seasonal	School	LA	434 South St	Paradis	70080-2244
+Arthur F. Smith Middle Magnet School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	3100 Jones Ave	Alexandria	71302-5655
+David Raines Community Health Center - Walnut Hill	Yes	Service Delivery Site	Permanent	School	LA	9360 Woolworth Rd	Shreveport	71129-9362
+ST. CHARLES COMMUNITY HEALTH CENTER	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	843 Milling Ave	Luling	70070-4442
+ST Bernard Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	8050 W Judge Perez Dr	Chalmette	70043-1734
+Avoyelles Public Charter SBHC	Yes	Service Delivery Site	Seasonal	School	LA	201 Longfellow Rd	Mansura	71350-4292
+Rapides School Based Health Center - AMMS	Yes	Service Delivery Site	Seasonal	School	LA	122 Maryland Ave	Alexandria	71301-5403
+RKM at Grays Creek Elementary	Yes	Service Delivery Site	Seasonal	School	LA	11400 LA Highway 1033	Denham Springs	70726-7042
+Thrive Academy	Yes	Service Delivery Site	Seasonal	School	LA	2585 Brightside Dr	Baton Rouge	70820-3504
+"Rapides Primary Health Care Center, Mobile Health Clinic"	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1217 Willow Glen River Rd	Alexandria	71302-5458
+Surrey Street Community Health Center Extension Site	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1002 12th St	Lafayette	70501-6298
+Pollock Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	4001 Highway 8	Pollock	71467-3580
+Baptist Community Health Services- Upper 9th Ward	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	4209 Saint Claude Ave	New Orleans	70117-5338
+RKM at Woodland Park Magnet	Yes	Service Delivery Site	Seasonal	School	LA	1000 S Range Rd	Hammond	70403
+David Raines Community School-Based Health Center- Turner	Yes	Service Delivery Site	Permanent	School	LA	5904 W 70th St	Shreveport	71129-2632
+Family Medical Clinic-Behavioral Health	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	300 Scarborough St	Lake Providence	71254-3018
+"DAVID RAINES COMMUNITY HEALTH CENTER, INC. - Shreveport"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1625 David Raines Rd	Shreveport	71107-5899
+"Baton Rouge Primary Care Collaborative, Inc. - Primary"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	7050 Plank Rd	Baton Rouge	70811-6043
+"Herschel L. Abbott, Jr. Community Health Center"	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	1024 Jackson Ave	New Orleans	70130-5546
+CASSE Stonewall Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	149 Stone Creek Rd	Stonewall	71078-4906
+WBR Primary Care at Port Allen Highschool	Yes	Service Delivery Site	Seasonal	School	LA	3553 Rosedale Rd	Port Allen	70767-4399
+Tulane Adolescent Drop-In Clinic Ruth Fertel	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	711 N Broad St	New Orleans	70119-4206
+Delhi Elementary & High School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	509 Main St	Delhi	71232-2537
+CrescentCare Mid-City	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2515 Canal St	New Orleans	70119-6435
+Jefferson Terrace Academy	Yes	Service Delivery Site	Seasonal	School	LA	5601 Upton Dr RM D117	Baton Rouge	70809-3140
+Bogalusa High School-Based Health Center	Yes	Service Delivery Site	Seasonal	All Other Clinic Types	LA	100 M J Israel Dr	Bogalusa	70427-3757
+Phoenix Magnet Elementary School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	4500 Lincoln Rd	Alexandria	71302-3630
+Mobile Dental	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	6450 LA Highway 1	Batchelor	70715-3212
+Southeast Community Health Systems - St. Helena Early Learning Center School-Based	Yes	Service Delivery Site	Seasonal	School	LA	1590 LA-1042	Greensburg	70441
+Luling Elementary School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	904 Sugarhouse Rd	Luling	70070-4435
+DePaul Community Health Centers - Edna Karr High School	Yes	Service Delivery Site	Seasonal	School	LA	4400 General Meyer Ave	New Orleans	70131-3529
+St. Thomas Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2000 Magazine St	New Orleans	70130-5018
+Trinity CHC Mobile Dental Center	Yes	Service Delivery Site	Mobile Van	School	LA	425 W Lafayette St	Winnfield	71483-3463
+CommuniHealth Services - Downsville Clinic	Yes	Service Delivery Site	Permanent	School	LA	4787 Highway 151	Downsville	71234-5145
+JeffCare West Jefferson	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	5001 Westbank Expy	Marrero	70072-2954
+St. Charles Community Health Mobile Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	843 Milling Ave	Luling	70070-4442
+Crestworth Academy Healthy Students	Yes	Service Delivery Site	Seasonal	School	LA	10650 Avenue F	Baton Rouge	70807-2598
+DePaul Community Health Centers - Lakeside	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"3116 6th St, Ste 101"	Metairie	70002-1762
+Dry Prong Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	800 Grove St	Dry Prong	71423-4379
+South Grant Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1000 Highway 1241	Dry Prong	71423-3632
+Odyssey House Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2700 S Broad St	New Orleans	70125-1953
+Iberia Comprehensive Community Health Center Mobile Medical Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	806 Jefferson Ter	New Iberia	70560-5727
+RKM at Pontchatoula High School	Yes	Service Delivery Site	Seasonal	School	LA	19452 Highway 22	Ponchatoula	70454-6756
+Access Health Louisiana Lutcher High School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1910 W Main St	Lutcher	70071-5122
+St. Thomas Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2014 Magazine St	New Orleans	70130-5018
+St Charles Community Health Center - Norco	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	16004 River Rd	Norco	70079-2040
+RKM at Independence Leadership Academy	Yes	Service Delivery Site	Seasonal	School	LA	221 Tiger Ave	Independence	70443-2296
+Magnolia Academic Center for Excellence	Yes	Service Delivery Site	Seasonal	School	LA	3125 Valcour Aime St	Vacherie	70090-7104
+Cherokee Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	5700 Prescott Rd	Alexandria	71301-2804
+Sunset Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	236 Church Hill St	Sunset	70584-6202
+RKM at Springfield Middle	Yes	Service Delivery Site	Seasonal	School	LA	24145 Coates Rd	Springfield	70462
+PHSC West Monroe Family Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	301 McMillan Rd	West Monroe	71291-5385
+SWLA--JD Clifton Elementary School	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	100 N Prater St	Lake Charles	70601-2649
+EXCELth Mobile Dental Unit	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	9900 Lake Forest Blvd	New Orleans	70127-2609
+East Carroll Parish Hospital	No	Administrative	Permanent	Hospital	LA	336 N Hood St	Lake Providence	71254-2140
+Winn CHC Health Information Technology Office	No	Administrative	Permanent	All Other Clinic Types	LA	424 W South Ave	Winnfield	71483-3424
+SOUTHWEST LA PRIMARY HEALTH CARE	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	8762 Highway 182	Opelousas	70570-5603
+RKM Primary Care Baton Rouge	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	455 E Airport Ave	Baton Rouge	70806-4832
+Peabody Montessori Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	2416 3rd St	Alexandria	71302-6305
+Southeast Community Health Systems - Mobile  Clinic	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	336 E Railroad Ave	Independence	70443-2710
+DePaul Community Health Centers - Hammond	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"835 Pride Dr, Suite B"	Hammond	70401-9527
+Start Community Health Center - Duhe	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	235 Civic Center Blvd	Houma	70360-5937
+CASSE - Shreveport Family Medicine & Pediatrics	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"2120 Bert Kouns Industrial Loop, #K"	Shreveport	71118-3351
+Teche Health @ Thibodaux	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1709 Ridgefield Rd	Thibodaux	70301-4333
+Start Community Health Center - Thibodaux	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	312 E Bayou Rd	Thibodaux	70301-8036
+ABBEVILLE COMMUNITY HEALTH CENTER	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	800 Charity St	Abbeville	70510-5239
+Washington Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2807 S Columbia St	Bogalusa	70427-7915
+Southwest Louisiana Primary Health Care Center Mobile Unit 2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	8762 Highway 182	Opelousas	70570-5603
+Teche Health @ St. James High School	Yes	Service Delivery Site	Seasonal	School	LA	22187 Highway 20	Vacherie	70090-3621
+Baptist Community Health Services- Sanchez Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1616 Caffin Ave	New Orleans	70117
+CASSE - Shreveport Administration	No	Administrative	Permanent	All Other Clinic Types	LA	"2120 Bert Kouns Industrial Loop, Suite H"	Shreveport	71118-3354
+Glenmora High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1518 7th Ave	Glenmora	71433-4027
+Livonia School Based Health Center- Suite A	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	8387 Newfield Dr	Livonia	70755-3605
+Acadiana Cares Health & Wellness Center at Pride Plaza	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	850 N Pierce St	Lafayette	70501-2822
+Southeast Community Health Systems - Coach Mobile Wellness Clinic	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	336 E Railroad Ave	Independence	70443-2710
+David Raines School Based Health Center- Keithville Elementary/Middle	Yes	Service Delivery Site	Seasonal	School	LA	12201 Mansfield Rd	Keithville	71047-8534
+CareSouth @ South Baton Rouge Charter Academy	Yes	Service Delivery Site	Seasonal	School	LA	9211 Parkway Dr	Baton Rouge	70810-7020
+Teche Health @ Reserve	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	471 Central Ave	Reserve	70084-5509
+RKM Primary Care Loranger	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	54016 Highway 1062	Loranger	70446-3538
+David Raines Community Health Center - Mobile Dental	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	mobile	Shreveport	71107
+AHL White Castle High SBHC	Yes	Service Delivery Site	Seasonal	School	LA	32695 Graham St	White Castle	70788-2211
+Comprehensive Care Center of Southwest Louisiana Admin & Health Center	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	425 Kingsley St	Lake Charles	70601-3533
+Woodlawn High School	Yes	Service Delivery Site	Seasonal	School	LA	15755 Jefferson Hwy	Baton Rouge	70817-6313
+PHSC DENTAL CLINIC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2914 Betin Ave	Monroe	71201-7258
+DePaul Community Health Centers - McDonogh 35 Senior High School	Yes	Service Delivery Site	Seasonal	School	LA	4000 Cadillac St	New Orleans	70122-1117
+PHSC MOBILE HEALTH CLINIC #2	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	2913 Desiard St	Monroe	71201-7207
+CASSE OB/GYN Bossier Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2120 Airline Dr	Bossier City	71111-3106
+RKM at Juban Parc Jr High	Yes	Service Delivery Site	Seasonal	School	LA	12470 Brown Rd	Denham Springs	70726-6835
+Woodworth Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	9372 Highway 165 S	Woodworth	71485-9786
+Southeast Community Health Systems - Northwestern Middle School	Yes	Service Delivery Site	Seasonal	School	LA	5200 E Central Ave	Zachary	70791-3116
+AHL Retina Services	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"3636 S I 10 Service Rd W, Suite 204"	Metairie	70001-6418
+Southeast Community Health Systems - Livingston Head Start	Yes	Service Delivery Site	Seasonal	School	LA	25753 Walker South Rd	Denham Springs	70726-6517
+Common Ground Health Clinic-Algiers	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3737 General Degaulle Dr	New Orleans	70114-8205
+Rapides Academy School Based Clinic	Yes	Service Delivery Site	Permanent	School	LA	4645 Lincoln Rd	Alexandria	71302-3620
+Southeast Community Health Systems - Central Tangipahoa Head Start	Yes	Service Delivery Site	Seasonal	School	LA	55420 N Railroad Ave	Independence	70443-4260
+New Roads Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"230 Roberts Dr, Suite H"	New Roads	70760-2661
+PHSC DESIARD STREET CLINIC	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2913 Desiard St	Monroe	71201-7207
+MARINGOUIN COMMUNITY HEALTH CENTER	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	77575 Landry Dr	Maringouin	70757-3210
+"DAVID RAINES COMMUNITY HEALTH CENTER, INC - Gilliam"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	12763 Lay St	Gilliam	71029-8733
+OHCC - Main Admin	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	3949 North Blvd	Baton Rouge	70806-3827
+AHL Jefferson Elementary SBHC	Yes	Service Delivery Site	Seasonal	School	LA	3900 Jefferson Hwy	New Orleans	70121-1693
+RKM at Seventh Ward Elementary	Yes	Service Delivery Site	Seasonal	School	LA	24495 LA Highway 16	Denham Springs	70726-6421
+Rapides School Based Health Center - Huddle	Yes	Service Delivery Site	Seasonal	School	LA	505 Texas Ave	Alexandria	71301-5035
+DePaul Community Health Centers - Andrew Wilson Charter School	Yes	Service Delivery Site	Seasonal	School	LA	3617 General Pershing St	New Orleans	70125-4530
+HEALTH CARE FOR THE HOMELESS	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2222 Simon Bolivar Ave	New Orleans	70113-1460
+Kenilworth S&T School Healthy Students	Yes	Service Delivery Site	Seasonal	School	LA	7600 Boone Ave	Baton Rouge	70808-6799
+CITY OF NEW ORLEANS HEALTH CARE for HOMELESS	No	Administrative	Permanent	Unknown	LA	1300 Perdido St	New Orleans	70112-2125
+RKM at Denham Springs Elementary	Yes	Service Delivery Site	Seasonal	School	LA	306 N Range Ave	Denham Springs	70726-3424
+CareSouth Behavioral Health - Baton Rouge	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3180 Convention St	Baton Rouge	70806-3711
+RKM at Hammond Eastside Magnet School	Yes	Service Delivery Site	Seasonal	School	LA	45050 River Rd	Hammond	70401-4220
+Woodworth Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	9374 Highway 165 S	Woodworth	71485-9786
+David Raines Community School Based Health Center-Rusheon Middle School	Yes	Service Delivery Site	Permanent	School	LA	2401 Old Minden Rd	Bossier City	71112-2307
+Daughters of Charity Health Center – Kenner	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"3715 Williams Blvd, Suite 220"	Kenner	70065-3061
+RKM at Martha Vineyard Elementary	Yes	Service Delivery Site	Seasonal	School	LA	40105 Dunson Rd	Ponchatoula	70454-5155
+Martin Behrman Fischer Campus	Yes	Service Delivery Site	Permanent	School	LA	1801 L B Landry Ave	New Orleans	70114-6166
+"Jefferson Community Health Care Centers,Inc.DBA Inclusivcare-Kenner"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	2552 Williams Blvd	Kenner	70062-5538
+HCH Arthur Monday	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1111 Newton St	New Orleans	70114-2500
+RKM at Lucille Nesom Memorial School	Yes	Service Delivery Site	Seasonal	School	LA	14417 LA-442	Tickfaw	70466-3022
+RKM at Live Oak Middle	Yes	Service Delivery Site	Seasonal	School	LA	8444 Cecil Dr	Denham Springs	70706-1244
+"CARESOUTH BEHAVIORAL HEALTH AT ZACHARY, LA"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	4852 Highway 19	Zachary	70791
+"Outpatient Medical Center, Inc. @ LP Vaughn SBHC"	Yes	Service Delivery Site	Seasonal	School	LA	1500 Gold St	Natchitoches	71457-3400
+Ferriday Family Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	100 Serio Blvd	Ferriday	71334-2013
+JeffCare East Jefferson	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	3616 S I 10 Service Rd W	Metairie	70001-1874
+CommuniHealth Services - Behavioral Health Wellness Clinic	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	501 Durham St	Bastrop	71220-5012
+Teche Health @ Gramercy	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	827 N Pine St	Gramercy	70052-3602
+"David Raines Community Health Center, Inc. - Minden"	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	128 Homer Rd	Minden	71055-2732
+RKM at TASP	Yes	Service Delivery Site	Seasonal	School	LA	411 Crystal St	Hammond	70401-1821
+RKM at Albany Middle School	Yes	Service Delivery Site	Seasonal	School	LA	29675 Reeves Ln	Albany	70711-3520
+Riverdale School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	240 Riverdale Dr	New Orleans	70121-3599
+Rosenthal Montessori Elementary School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	1951 Monroe St	Alexandria	71301-6673
+East Jefferson High School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	400 Phlox Ave	Metairie	70001-4542
+CASSE - DIAMC Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1560 Irving Pl	Shreveport	71101-4604
+OHCC - Airline North	Yes	Administrative/Service Delivery Site	Permanent	All Other Clinic Types	LA	9516 Airline Hwy	Baton Rouge	70815-5598
+RKM at Greenville Park Leadership Academy	Yes	Service Delivery Site	Seasonal	School	LA	111 J W Davis Dr	Hammond	70403-3999
+DePaul Community Health Centers - St. Mary's Academy	Yes	Service Delivery Site	Seasonal	School	LA	6905 Chef Menteur Hwy	New Orleans	70126-5291
+Evangeline Parish Site	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	505 E Lincoln Rd	Ville Platte	70586-3514
+Daughters of Charity Health Center - Metairie	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	111 N Causeway Blvd	Metairie	70001-5493
+Southeast Community Health Systems-Zachary	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	6351 Main St	Zachary	70791-4038
+Avoyelles Primary Health and Wellness Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1007 Shirley Rd	Bunkie	71322-1544
+DCHC - St. Stephen Catholic School	Yes	Service Delivery Site	Seasonal	School	LA	1025 Napoleon Ave	New Orleans	70115-2898
+BCHS School Based Service Site at Arise Academy	Yes	Service Delivery Site	Permanent	School	LA	3819 Saint Claude Ave	New Orleans	70117-5735
+Southeast Community Health Systems - Spring Creek Elementary School-Based	Yes	Service Delivery Site	Seasonal	School	LA	72961 Highway 1061	Kentwood	70444-5832
+RKM at Lewis Vincent Elementary	Yes	Service Delivery Site	Seasonal	School	LA	7686 Vincent Rd	Denham Springs	70726-5655
+Tensas School-Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	720 Plank Rd	Saint Joseph	71366-6616
+Delhi Charter School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	6940 Highway 17	Delhi	71232-7021
+Mary Goff Elementary School-Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	6900 Shreveport Hwy	Pineville	71360-2718
+Scott M. Brame Middle School Based Clinic	Yes	Service Delivery Site	Seasonal	School	LA	4800 Dawn St	Alexandria	71301-3301
+DeRidder Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"427 N Pine St, Suite A"	Deridder	70634-3905
+Southeast Community Health Systems - O.W. Dillon Leadership Academy School-Based	Yes	Service Delivery Site	Seasonal	School	LA	1459 Service Rd	Kentwood	70444
+Vidalia Community Health Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	"900 Carter St, Ste A"	Vidalia	71373-3243
+St. Thomas Community Health Center - West Bank	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	3221 General Degaulle Dr	New Orleans	70114-6708
+Southeast Community Health Systems - Jewel M. Sumner Middle School-Based	Yes	Service Delivery Site	Seasonal	School	LA	15649 Highway 440	Kentwood	70444-6939
+Clinton Middle Health Center @ East Feliciana Middle School	Yes	Service Delivery Site	Seasonal	All Other Clinic Types	LA	10410 Plank Rd	Clinton	70722
+DePaul Community Health Centers - St. Augustine High School	Yes	Service Delivery Site	Seasonal	School	LA	2600 A P Tureaud Ave	New Orleans	70119-1208
+Iberia Comprehensive Vision Center	Yes	Service Delivery Site	Permanent	All Other Clinic Types	LA	1110 Angers St	New Iberia	70563-2090
+David Raines CHC Mobile Med Unit #3	Yes	Service Delivery Site	Mobile Van	All Other Clinic Types	LA	1625 David Raines Rd	Shreveport	71107-5899
+Mabel Brasher Montessori School Based Health Center	Yes	Service Delivery Site	Seasonal	School	LA	601 Cloverleaf Blvd	Alexandria	71303-3808
+Southeast Community Health Systems - Copper Mill Elementary School	Yes	Service Delivery Site	Seasonal	School	LA	1300 Independence Blvd	Zachary	70791-7361
+Douglass Community School SBHC	Yes	Service Delivery Site	Seasonal	School	LA	1400 Huey P Long Ave	Gretna	70053-6436
+Lincoln Elementary School for the Arts-123	Yes	Service Delivery Site	Seasonal	School	LA	1429 Ames Blvd	Marrero	70072-2867
