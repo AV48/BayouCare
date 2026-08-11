@@ -1,5 +1,9 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
+pip install googlemaps
+import os
+import googlemaps
+
 
 # This is the same pattern from the Generative AI lesson! It uses the
 # Inference Provider API to send your messages to an AI model and get
