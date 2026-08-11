@@ -33,12 +33,12 @@ def respond(message, history):
 
     return response.choices[0].message.content.strip()
 
-"""
+
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
     knowledgebase = file.read()
 
 print(knowledgebase)
-"""
+
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
