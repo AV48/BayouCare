@@ -1,5 +1,2 @@
-gradio
-huggingface_hub
 torch
 sentence-transformers
-numpy
