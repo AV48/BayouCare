@@ -34,8 +34,7 @@ def respond(message, history):
 
 
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
-
-knowledgebase = file.read()
+    knowledgebase = file.read()
 
 print(knowledgebase)
 
