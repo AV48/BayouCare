@@ -38,7 +38,6 @@ with open("knowledgebase.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
   knowledgebase = file.read()
 
-
 print(knowledgebase)
 
 chatbot = gr.ChatInterface(respond)
