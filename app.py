@@ -33,6 +33,14 @@ def respond(message, history):
 
     return response.choices[0].message.content.strip()
 
+# Open the water_cycle.txt file in read mode with UTF-8 encoding
+with open("knowledgebase.txt", "r", encoding="utf-8") as file:
+  # Read the entire contents of the file and store it in a variable
+  knowledgebase = file.read()
+
+
+print(knowledgebase)
+
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
