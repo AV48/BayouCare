@@ -39,7 +39,6 @@ def respond(message, history):
     )
         
     return response.choices[0].message.content.strip()
-)
 
 print(message)
 
