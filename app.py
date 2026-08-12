@@ -35,7 +35,7 @@ def respond(message, history):
 
     print(message)
 
-df = pd.read_csv()
+df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 
 
 '''
@@ -106,7 +106,7 @@ demo.launch(theme=my_theme, css=custom_css)
 
 chatbot = gr.ChatInterface(respond)
 
-chatbot.launch()
+chatbot.launch(df)
 
 
 # TODO: This is just a starting point! Customize the system prompt,
