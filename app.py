@@ -18,7 +18,7 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
 def respond(message, history):
     
-    messages = [{"role": "system", "content": "You are a friendly chatbot."}]
+    messages = [{"role": "system", "content": "You are a friendly chatbot who says a positive comment before replying"}]
 
     if history:
         messages.extend(history)
@@ -36,7 +36,7 @@ def respond(message, history):
     print(message)
 
 df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
-
+df.describe
 
 '''
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
@@ -106,7 +106,7 @@ demo.launch(theme=my_theme, css=custom_css)
 
 chatbot = gr.ChatInterface(respond)
 
-chatbot.launch(df)
+chatbot.launch()
 
 
 # TODO: This is just a starting point! Customize the system prompt,
