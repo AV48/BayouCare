@@ -34,6 +34,12 @@ def respond(message, history):
 
     print(message)
 
+my_theme = gr.themes.Soft(
+    primary_hue="purple",
+    secondary_hue="violet"
+)
+
+
 # --- CSS code for details in Interface ---
 custom_css = """
 /* MAIN BACKGROUND */
