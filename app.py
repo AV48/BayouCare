@@ -18,7 +18,7 @@ import random
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
-def positive_comment():
+def positive():
     
     comments = ["Asking for help is a sign of self-respect and self-awareness.","Changing my mind is a strength, not a weakness.","I am loved and worthy.",
             "I look forward to tomorrow and the opportunities that await me.", " I will allow myself to evolve.","There is poetry in everything, if I look for it.","When I talk to myself as I would a friend, I see all my best qualities and I allow myself to shine."
@@ -78,7 +78,7 @@ cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
 pd.read_csv(cleaned_chunks)
 """
-chatbot = gr.ChatInterface(positive_comment, respond)
+chatbot = gr.ChatInterface(positive, respond)
 
 chatbot.launch()
 
