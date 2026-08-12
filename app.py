@@ -43,8 +43,8 @@ def preprocess_text(text):
     # Strip extra whitespace from the beginning and the end of the text
     cleaned_text = text.strip()
     
-    x = clean_text.strip("Site Name	Services Delivered at Site	Health Center Type	Health Center Location Type	Health Center Location Setting	State	Address	City	ZIP")
-    
+    final_cleaned_text = cleaned_text.strip("Site Name	Services Delivered at Site	Health Center Type	Health Center Location Type	Health Center Location Setting	State	Address	City	ZIP")
+
     # Split the cleaned_text by every newline character (\n)
     chunks = cleaned_text.split("\n")
     
@@ -66,10 +66,7 @@ def preprocess_text(text):
 # Return the cleaned_chunks
   return cleaned_chunks
 
-# Call the preprocess_text function and store the result in a cleaned_chunks variable
-cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
-pd.read_csv(cleaned_chunks)
 
 
 """"
