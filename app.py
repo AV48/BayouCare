@@ -109,7 +109,119 @@ demo.launch(theme=my_theme, css=custom_css)
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
+my_theme = gr.themes.Soft(
+    primary_hue="purple",
+    secondary_hue="violet"
+)
 
+# --- CSS code for details in Interface ---
+custom_css = """
+/* MAIN BACKGROUND */
+:root, html, body, #root, [class*="gradio-container"] { 
+    background-image: linear-gradient(135deg, #736686 0%, #9889A5 100%) !important;
+    background-color: #f2f1f6 !important;
+}
+div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
+div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
+div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="prose"] {
+    background-color: transparent !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.gradio-container .markdown-text, .gradio-container div[class*="prose"] {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+.gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
+    color: white !important;
+}
+.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="chatbot"], .gradio-chatbot, .chat-view {
+    background-color: #A696B3 !important;
+    background: #A696B3 !important;
+    border: 1px solid #736686 !important;
+    border-radius: 12px !important;
+}
+.user, [class*="user"], .message.user { 
+    background-color: #C4B4C8 !important; 
+    color: #2A2235 !important; 
+}
+.user p, .user span, .user strong { color: #2A2235 !important; }
+.bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
+.bot p, .bot span, .bot strong, .bot li, .bot div { 
+    background-color: #E0CFDB !important; 
+    background: #E0CFDB !important;
+    color: #2A2235 !important; 
+}
+.chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
+    background-color: #C4B4C8 !important;
+    background: #C4B4C8 !important;
+    color: #2A2235 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+textarea, div[class*="input-box"], .input-container {
+    background-color: #E0CFDB !important;
+    background: #E0CFDB !important;
+    color: #2A2235 !important;
+    border: 1px solid #736686 !important;
+    border-radius: 8px !important;
+}
+textarea::placeholder { color: #736686 !important; opacity: 0.6; }
+.submit-button, button[class*="submit"], div[class*="pending"], .generating, [class*="loading"] {
+    background-color: #736686 !important;
+    background: #736686 !important;
+    color: white !important;
+}
+.message.bot a {
+    color: #736686 !important;
+    text-decoration: underline !important;
+}
+div[data-testid="block-container"] img { 
+    background: transparent !important; 
+    border: none !important; 
+    box-shadow: none !important; 
+}
+"""
+
+# Initialize the interface
+with gr.Blocks( ) as demo:
+
+
+    # 1. Cover Banner (Top)
+    cover_image = gr.Image(
+        value="updatedbanner.jpeg",
+        show_label=False,
+        container=False,
+        height=180,
+        interactive=False
+    )
+
+    # 2. Logo & Header Title
+    with gr.Row():
+        with gr.Column(scale=1, min_width=80):
+            logo = gr.Image(
+                value="logo.png",
+                show_label=False,
+                container=False,
+                height=80,
+                interactive=False
+            )
+
+        with gr.Column(scale=5):
+            gr.Markdown("<h1 style='color:#d63384; margin: 0;'>HerPath🌸</h1>")
+            gr.Markdown("<p style='color: #6f42c1; font-weight: 500;'>Your AI guide for women and girls to discover scholarships, internships, STEM programs, research opportunities, hackathons, competitions, mentorship, and career guidance.</p>")
+    gr.ChatInterface(respond,
+                examples=[
+                    "What STEM scholarships are available for high school seniors?",
+                    "Can you suggest hackathons for beginners?",
+                    "How do I find career guidance or mentorship in tech?",
+                    "What summer research programs or internships are open now?"
+                ],
+                cache_examples=False)
+
+# 4. Launch the application
+demo.launch(theme=my_theme, css=custom_css)
 
 # TODO: This is just a starting point! Customize the system prompt,
 # the model, and the interface to make this project your own!
