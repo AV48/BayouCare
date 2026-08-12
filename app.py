@@ -1,6 +1,7 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
 import pandas as pd
+import time 
 #pip install googlemaps
 #import os
 #import googlemaps
@@ -31,7 +32,7 @@ def respond(message, history):
         temperature = 1
     )
 
-    time.sleep("...")
+    time.sleep(3) #pauses for 3 seconds
     return response.choices[0].message.content.strip()
 
 """"
