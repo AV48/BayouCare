@@ -1,10 +1,7 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
 import pandas as pd
-import time 
-pip install rich
-from rich import print
-from rich.panel import Panel
+import random
 #pip install googlemaps
 #import os
 #import googlemaps
@@ -21,6 +18,12 @@ from rich.panel import Panel
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
+comments = ["Asking for help is a sign of self-respect and self-awareness.","Changing my mind is a strength, not a weakness.","I am loved and worthy.",
+            "I look forward to tomorrow and the opportunities that await me.", " I will allow myself to evolve.","There is poetry in everything, if I look for it.","When I talk to myself as I would a friend, I see all my best qualities and I allow myself to shine."
+            "When I focus on my reason for being, I am infinitely brave.","Today is an opportunity to grow and learn.","Saying “no” is an act of self-affirmation, too.","My heart knows its own way.","Letting go creates space for opportunities to come."]
+
+print(random.choice(comments)) 
+
 def respond(message, history):
     messages = [{"role": "system", "content": "You are a friendly chatbot."}]
 
@@ -34,14 +37,6 @@ def respond(message, history):
         max_tokens=100,
         temperature = 1
     )
-
-    time.sleep(3) #pauses for 3 seconds
-    # Create a styled box for the chatbot message
-    message = Panel(
-    "I can help you style your terminal application easily!",
-    title="[bold blue]Chatbot[/bold blue]",
-    border_style="cyan",
-    expand=False
         
     return response.choices[0].message.content.strip()
 )
