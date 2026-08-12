@@ -36,7 +36,8 @@ def respond(message, history):
     print(message)
 
 df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
-df.describe
+if "Hospital": 
+    print(df.describe)
 
 '''
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
