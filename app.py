@@ -15,7 +15,7 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 # HF_TOKEN secret in the Space's Settings tab for this to work
 # (Settings -> Variables and secrets -> New secret).
 
-
+df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 def respond(message, history):
     
     messages = [{"role": "system", "content": "You are a friendly chatbot who says a positive comment before replying"}]
@@ -32,12 +32,13 @@ def respond(message, history):
     )
         
     return response.choices[0].message.content.strip()
+    return print(df[:546])
 
     print(message)
 
-df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
-if "Hospital": 
-    print(df[:546])
+
+#if "Hospital": 
+   # print(df[:546])
 
 '''
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
