@@ -1,7 +1,6 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
 import pandas as pd
-import random
 #pip install googlemaps
 #import os
 #import googlemaps
@@ -16,13 +15,6 @@ import random
 # HF_TOKEN secret in the Space's Settings tab for this to work
 # (Settings -> Variables and secrets -> New secret).
 
-client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
-
-comments = ["Asking for help is a sign of self-respect and self-awareness.","Changing my mind is a strength, not a weakness.","I am loved and worthy.",
-            "I look forward to tomorrow and the opportunities that await me.", " I will allow myself to evolve.","There is poetry in everything, if I look for it.","When I talk to myself as I would a friend, I see all my best qualities and I allow myself to shine."
-            "When I focus on my reason for being, I am infinitely brave.","Today is an opportunity to grow and learn.","Saying “no” is an act of self-affirmation, too.","My heart knows its own way.","Letting go creates space for opportunities to come."]
-
-comment= random.choice(comments)
 
 def respond(message, history):
     
@@ -41,7 +33,7 @@ def respond(message, history):
         
     return response.choices[0].message.content.strip()
 
-    print(comment, message)
+    print(message)
 
 """"
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
