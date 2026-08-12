@@ -70,7 +70,7 @@ cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 pd.read_csv(cleaned_chunks)
 """
 
-
+""""
 my_theme = gr.themes.Soft(
     primary_hue="purple",
     secondary_hue="violet"
@@ -100,7 +100,7 @@ with gr.Blocks( ) as demo:
             )
 
 demo.launch(theme=my_theme, css=custom_css)
-
+"""
 
 chatbot = gr.ChatInterface(respond)
 
