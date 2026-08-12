@@ -10,7 +10,7 @@ import pandas as pd
 # Inference Provider API to send your messages to an AI model and get
 # a response back. Swap out the model below for a different one if
 # you want to experiment!
-#
+client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 # Note: if this Space doesn't already have one, you'll need to add an
 # HF_TOKEN secret in the Space's Settings tab for this to work
 # (Settings -> Variables and secrets -> New secret).
