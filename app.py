@@ -43,7 +43,7 @@ def preprocess_text(text):
     # Strip extra whitespace from the beginning and the end of the text
     cleaned_text = text.strip()
     
-    x = clean_text.strip()
+    x = clean_text.strip("Site Name	Services Delivered at Site	Health Center Type	Health Center Location Type	Health Center Location Setting	State	Address	City	ZIP")
     
     # Split the cleaned_text by every newline character (\n)
     chunks = cleaned_text.split("\n")
