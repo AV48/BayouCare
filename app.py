@@ -31,9 +31,10 @@ def respond(message, history):
         temperature = 1
     )
 
+    time.sleep("...")
     return response.choices[0].message.content.strip()
 
-
+""""
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
     knowledgebase = file.read()
 
@@ -66,7 +67,7 @@ def preprocess_text(text):
 cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
 pd.read_csv(cleaned_chunks)
-
+"""
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
