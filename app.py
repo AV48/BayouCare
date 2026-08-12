@@ -69,6 +69,39 @@ cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
 pd.read_csv(cleaned_chunks)
 """
+
+
+my_theme = gr.themes.Soft(
+    primary_hue="purple",
+    secondary_hue="violet"
+)
+
+with gr.Blocks( ) as demo:
+
+
+    # 1. Cover Banner (Top)
+    cover_image = gr.Image(
+        value="updatedbanner.jpeg",
+        show_label=False,
+        container=False,
+        height=180,
+        interactive=False
+    )
+
+    # 2. Logo & Header Title
+    with gr.Row():
+        with gr.Column(scale=1, min_width=80):
+            logo = gr.Image(
+                value="logo.png",
+                show_label=False,
+                container=False,
+                height=80,
+                interactive=False
+            )
+
+demo.launch(theme=my_theme, css=custom_css)
+
+
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
