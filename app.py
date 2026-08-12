@@ -15,6 +15,25 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 # HF_TOKEN secret in the Space's Settings tab for this to work
 # (Settings -> Variables and secrets -> New secret).
 
+def respond(message, history):
+    
+    messages = [{"role": "system", "content": "You are a friendly chatbot who says a positive comment before replying"}]
+
+    if history:
+        messages.extend(history)
+
+    messages.append({"role": "user", "content": message})
+
+    response = client.chat_completion(
+        messages,
+        max_tokens=100,
+        temperature = 1
+    )
+        
+    return response.choices[0].message.content.strip()
+
+    print(message)
+
 # --- CSS code for details in Interface ---
 custom_css = """
 /* MAIN BACKGROUND */
@@ -123,26 +142,6 @@ with gr.Blocks( ) as demo:
 
 # 4. Launch the application
 demo.launch(theme=my_theme, css=custom_css)
-
-def respond(message, history):
-    
-    messages = [{"role": "system", "content": "You are a friendly chatbot who says a positive comment before replying"}]
-
-    if history:
-        messages.extend(history)
-
-    messages.append({"role": "user", "content": message})
-
-    response = client.chat_completion(
-        messages,
-        max_tokens=100,
-        temperature = 1
-    )
-        
-    return response.choices[0].message.content.strip()
-    return print(df[:546])
-
-    print(message)
 
 df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 if "Hospital": 
