@@ -2,6 +2,9 @@ import gradio as gr
 from huggingface_hub import InferenceClient
 import pandas as pd
 import time 
+pip install rich
+from rich import print
+from rich.panel import Panel
 #pip install googlemaps
 #import os
 #import googlemaps
@@ -33,7 +36,17 @@ def respond(message, history):
     )
 
     time.sleep(3) #pauses for 3 seconds
+    # Create a styled box for the chatbot message
+    message = Panel(
+    "I can help you style your terminal application easily!",
+    title="[bold blue]Chatbot[/bold blue]",
+    border_style="cyan",
+    expand=False
+        
     return response.choices[0].message.content.strip()
+)
+
+print(message)
 
 """"
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
