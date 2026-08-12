@@ -40,7 +40,7 @@ def respond(message, history):
         
     return response.choices[0].message.content.strip()
 
-print(message)
+    print(message)
 
 """"
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
