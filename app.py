@@ -35,13 +35,15 @@ def respond(message, history):
 
     print(message)
 
-""""
+
 with open("knowledgebase.txt", "r", encoding="utf-8") as file:
     knowledgebase = file.read()
 
 def preprocess_text(text):
     # Strip extra whitespace from the beginning and the end of the text
     cleaned_text = text.strip()
+    
+    x = clean_text.strip()
     
     # Split the cleaned_text by every newline character (\n)
     chunks = cleaned_text.split("\n")
@@ -68,7 +70,7 @@ def preprocess_text(text):
 cleaned_chunks = preprocess_text(knowledgebase) # Complete this line
 
 pd.read_csv(cleaned_chunks)
-"""
+
 
 """"
 my_theme = gr.themes.Soft(
