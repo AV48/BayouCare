@@ -55,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: 90 30 3 3 black; !important;
+    box-shadow: 50 60; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -65,9 +65,9 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: white !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
-    background-color: #ffffff !important;
-    background: #c5fac0 !important;  
-    border: 3px solid #ffffff !important;
+    background-color: #152f59 !important;
+    background: #ffffff !important;  
+    border: 3px solid #54f9ff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
@@ -78,7 +78,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
     background-color: #cfc8cd !important; 
-    background: #cfc8cd !important;
+    background: #6cf084 !important;
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
