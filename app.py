@@ -139,7 +139,7 @@ with gr.Blocks( ) as demo:
         with gr.Column(scale=5):
             gr.Markdown("<h1 style='color:#ffffff; margin: 0;'>BayouCare</h1>")
             gr.Markdown("<p style='color: #6f42c1; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
-""""
+
         gr.ChatInterface(respond,
                 examples=[
                     "What STEM scholarships are available for high school seniors?",
@@ -148,7 +148,7 @@ with gr.Blocks( ) as demo:
                     "What summer research programs or internships are open now?"
                 ],
                 cache_examples=False)
-""""
+
 
 # 4. Launch the application
 demo.launch(theme=my_theme, css=custom_css)
