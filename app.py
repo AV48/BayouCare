@@ -83,7 +83,7 @@ def get_top_chunks(query, chunk_embeddings, chunks):
 question = str(input("Hello! My name is Bayou, an AI designed to help you find low-cost healthcare near you in Louisiana. How can I help you today?"))
 top_results = get_top_chunks(question, chunk_embeddings, chunks)
 
-# Format as a chatbot-style reply
+# Format the response
 response = "Here are a few clinics that might help:\n\n"
 for name, address in top_results:
     response += f"{name} is located at {address}. "
