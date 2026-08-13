@@ -100,7 +100,7 @@ textarea::placeholder { color: #736686 !important; opacity: 0.6; }
     color: white !important;
 }
 .message.bot a {
-    color: #736686 !important;
+    color: #f5dd07 !important;
     text-decoration: underline !important;
 }
 div[data-testid="block-container"] img { 
