@@ -34,17 +34,19 @@ def respond(message, history):
 
     print(message)
 
+
+
+# --- CSS code for details in Interface ---
+
 my_theme = gr.themes.Soft(
     primary_hue="blue",
     secondary_hue="green"
 )
 
-
-# --- CSS code for details in Interface ---
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(135deg, #92d6a4 0%, #acd1f2 100%) !important;
+    background-image: linear-gradient(135deg, #92d6a4 35%, #acd1f2 100%) !important;
     background-color: #a85e32 !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -53,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: none !important;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.12) !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
