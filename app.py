@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#add8ff 95%, #fcfffd 5%) !important;
+    background-image: linear-gradient(90deg,#add8ff 40%, #ffffff 50%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -71,7 +71,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #89d98f !important; 
+    background-color: #9af5a1 !important; 
     color: #000000 !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
@@ -82,15 +82,15 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
-    background-color: #c6f4f5!important;
+    background-color: #c6f4f5 !important;
     background: #c6f4f5 !important;
     color: #000000 !important;
     border: none !important;
     box-shadow: 30 30 !important;
 }
 textarea, div[class*="input-box"], .input-container {
-    background-color: #628566 !important;
-    background: #628566 !important;
+    background-color: #aef2fc !important;
+    background: #aef2fc !important;
     color: #0a8a7d !important;
     border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
@@ -121,14 +121,14 @@ with gr.Blocks( ) as demo:
         value="Screenshot 2026-08-12 233508.png",
         show_label="BayouCare",
         container=False,
-        height=200,
+        height=90,
         width = 240,
         interactive=False
     )
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=1, min_width=180):
+        with gr.Column(scale=8, min_width=180):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
