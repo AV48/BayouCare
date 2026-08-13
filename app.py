@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(135deg, #92d6a4 35%, #acd1f2 100%) !important;
+    background-image: linear-gradient(135deg, #92d6a4 0%, #acd1f2 100%) !important;
     background-color: #a85e32 !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -62,7 +62,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background: transparent !important;
 }
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
-    color: blue !important;
+    color: green !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="chatbot"], .gradio-chatbot, .chat-view {
     background-color: #b2f0b1 !important;
