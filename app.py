@@ -83,7 +83,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: none !important;
     border: none !important;
-    box-shadow: 50px 60px green; !important;
+    box-shadow: 10px 10px 40 #91e6a6; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -114,7 +114,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background: #c6f4f5 !important;
     color: #000000 !important;
     border: none !important;
-    box-shadow: 30 30 !important;
+    box-shadow: 10px 10px 40 #91e6a6 !important;
 }
 textarea, div[class*="input-box"], .input-container {
     background-color: #aef2fc !important;
