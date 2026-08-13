@@ -47,7 +47,7 @@ custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
     background-image: linear-gradient(135deg, #70947a 0%, #8095a8 100%) !important;
-    background-color: #ff8800 !important;
+    background-color: #70947a !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
@@ -55,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: inset 2px 2px 5px rgba(0,0,0,0.3) !important;
+    box-shadow: 9 5 10 3 grey; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -65,8 +65,8 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: white !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
-    background-color: #b2f0b1 !important;
-    background: #92d6a4 !important;  
+    background-color: #a1f799 !important;
+    background: #fff200 !important;  
     border: 1px solid #00ff00 !important;
     border-radius: 12px !important;
 }
