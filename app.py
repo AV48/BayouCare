@@ -121,8 +121,6 @@ with gr.Blocks( ) as demo:
         value="Screenshot 2026-08-13 154216.png",
         show_label="BayouCare",
         container=False,
-        height=90,
-        width = 240,
         interactive=False
     )
 
