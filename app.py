@@ -148,9 +148,9 @@ textarea, div[class*="input-box"], .input-container {
     border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
 }
-textarea::placeholder { color: #0b3466 !important; opacity: 0.6; }
+textarea::placeholder { color: #a2a4db !important; opacity: 0.6; }
 .submit-button, button[class*="submit"], div[class*="pending"], .generating, [class*="loading"] {
-    background-color: #0b3466 !important;
+    background-color: #7de382 !important;
     background: #ffffff !important;
     color: black !important;
 }
