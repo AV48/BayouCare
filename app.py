@@ -34,8 +34,6 @@ def respond(message, history):
 
     print(message)
 
-
-
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
@@ -46,16 +44,16 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#add8ff 20%, #ffffff 110%) !important;
+    background-image: linear-gradient(90deg,#add8ff 20%, #ffffff 80%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
 div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="prose"] {
     background-color: transparent !important;
-    background: transparent !important;
+    background: brown !important;
     border: none !important;
-    box-shadow: 50 60; !important;
+    box-shadow: 50 60 green; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -91,7 +89,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 textarea, div[class*="input-box"], .input-container {
     background-color: #aef2fc !important;
     background: #aef2fc !important;
-    color: #0a8a7d !important;
+    color: #abffa8 !important;
     border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
 }
@@ -121,6 +119,7 @@ with gr.Blocks( ) as demo:
         value="Screenshot 2026-08-13 154216.png",
         show_label="BayouCare",
         container=False,
+        height = 380,
         interactive=False
     )
 
