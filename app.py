@@ -134,7 +134,7 @@ with gr.Blocks( ) as demo:
                 show_label=False,
                 container=False,
                 height=90,
-                weight= 90,
+                width= 90,
                 interactive=False
             )
 
