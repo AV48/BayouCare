@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#fcfffd 100%, #add8ff 0%) !important;
+    background-image: linear-gradient(90deg,#fcfffd 95%, #add8ff 5%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -67,38 +67,38 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #152f59 !important;
     background: #ffffff !important;  
-    border: 3px solid #6eff90 !important;
+    border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #7ce3f7 !important; 
-    color: #59f77e !important; 
+    background-color: #4f97e3 !important; 
+    color: #5cc9ff !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
     background-color: #ffaa00 !important; 
-    background: #6cf084 !important;
+    background: #4be367 !important;
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
-    background-color: #d4ced6 !important;
-    background: #d4ced6 !important;
+    background-color: #8cf3f5 !important;
+    background: #8cf3f5 !important;
     color: #000000 !important;
     border: none !important;
-    box-shadow: none !important;
+    box-shadow: 30 30 !important;
 }
 textarea, div[class*="input-box"], .input-container {
-    background-color: #E0CFDB !important;
-    background: #E0CFDB !important;
-    color: #2A2235 !important;
-    border: 1px solid #736686 !important;
+    background-color: #8cf3f5 !important;
+    background: #8cf3f5 !important;
+    color: #0a8a7d !important;
+    border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
 }
-textarea::placeholder { color: #736686 !important; opacity: 0.6; }
+textarea::placeholder { color: #0b3466 !important; opacity: 0.6; }
 .submit-button, button[class*="submit"], div[class*="pending"], .generating, [class*="loading"] {
-    background-color: #736686 !important;
-    background: #736686 !important;
+    background-color: #0b3466 !important;
+    background: #0b3466 !important;
     color: white !important;
 }
 .message.bot a {
@@ -121,7 +121,8 @@ with gr.Blocks( ) as demo:
         value="Screenshot 2026-08-12 233508.png",
         show_label=False,
         container=False,
-        height=180,
+        height=200,
+        width = 270
         interactive=False
     )
 
@@ -195,8 +196,8 @@ chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
 my_theme = gr.themes.Soft(
-    primary_hue="purple",
-    secondary_hue="violet"
+    primary_hue="blue",
+    secondary_hue="green"
 )
 
 
