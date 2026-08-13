@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#add8ff 5%, #fcfffd 95%) !important;
+    background-image: linear-gradient(90deg,#add8ff 95%, #fcfffd 5%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -62,7 +62,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background: transparent !important;
 }
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
-    color: white !important;
+    color: #0c3c69 !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #ffe600 !important;
@@ -71,14 +71,14 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #00fff2 !important; 
-    color: #5cc9ff !important; 
+    background-color: #89d98f !important; 
+    color: #000000 !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
     background-color: #ffaa00 !important; 
-    background: #4be367 !important;
+    background: #b8f2c3 !important;
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
@@ -89,8 +89,8 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     box-shadow: 30 30 !important;
 }
 textarea, div[class*="input-box"], .input-container {
-    background-color: #8cf3f5 !important;
-    background: #8cf3f5 !important;
+    background-color: #628566 !important;
+    background: #628566 !important;
     color: #0a8a7d !important;
     border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
@@ -99,7 +99,7 @@ textarea::placeholder { color: #0b3466 !important; opacity: 0.6; }
 .submit-button, button[class*="submit"], div[class*="pending"], .generating, [class*="loading"] {
     background-color: #0b3466 !important;
     background: #0b3466 !important;
-    color: white !important;
+    color: black !important;
 }
 .message.bot a {
     color: #f5dd07 !important;
@@ -119,10 +119,10 @@ with gr.Blocks( ) as demo:
     # 1. Cover Banner (Top)
     cover_image = gr.Image(
         value="Screenshot 2026-08-12 233508.png",
-        show_label=False,
+        show_label="BayouCare",
         container=False,
         height=200,
-        width = 40,
+        width = 240,
         interactive=False
     )
 
@@ -133,7 +133,7 @@ with gr.Blocks( ) as demo:
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
                 container=False,
-                height=90,
+                height=120,
                 interactive=False
             )
 
