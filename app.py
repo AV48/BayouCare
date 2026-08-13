@@ -152,7 +152,7 @@ textarea, div[class*="input-box"], .input-container {
 textarea::placeholder { color: #0b3466 !important; opacity: 0.6; }
 .submit-button, button[class*="submit"], div[class*="pending"], .generating, [class*="loading"] {
     background-color: #0b3466 !important;
-    background: #0b3466 !important;
+    background: #ffffff !important;
     color: black !important;
 }
 .message.bot a {
