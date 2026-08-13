@@ -7,7 +7,7 @@ import pandas as pd
 
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
-
+'''
 #code to get data from knowledge base & respond -----------------
 from sentence_transformers import SentenceTransformer
 import torch
@@ -43,7 +43,7 @@ def get_top_chunks(query, chunk_embeddings, chunks):
         address = fields[6]
         top_chunks.append((name, address))
     return top_chunks
-
+'''
 # chatbot response function
 def respond(message, history):
     top_results = get_top_chunks(message, chunk_embeddings, chunks)
@@ -138,8 +138,8 @@ div[data-testid="block-container"] img {
     border: none !important; 
     box-shadow: none !important; 
 }
-"""
-"""
+
+
 # Initialize the interface
 with gr.Blocks( ) as demo:
 
@@ -183,7 +183,7 @@ df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 if "Hospital": 
     print(df[:546])
 
-"""
+
 
 chatbot = gr.ChatInterface(respond)
 
