@@ -65,9 +65,9 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: white !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
-    background-color: #a1f799 !important;
-    background: #fff200 !important;  
-    border: 1px solid #00ff00 !important;
+    background-color: #ffffff !important;
+    background: #a1f799 !important;  
+    border: 2px solid #ffffff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
