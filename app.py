@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#fcfffd 0%, #add8ff 100%) !important;
+    background-image: linear-gradient(90deg,#fcfffd 100%, #add8ff 0%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -67,17 +67,17 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #152f59 !important;
     background: #ffffff !important;  
-    border: 3px solid #54f9ff !important;
+    border: 3px solid #6eff90 !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #add6de !important; 
-    color: #36c75c !important; 
+    background-color: #7ce3f7 !important; 
+    color: #59f77e !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
-    background-color: #cfc8cd !important; 
+    background-color: #ffaa00 !important; 
     background: #6cf084 !important;
     color: #080708 !important; 
 }
