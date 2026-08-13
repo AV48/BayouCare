@@ -47,7 +47,7 @@ custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
     background-image: linear-gradient(135deg, #70947a 0%, #8095a8 100%) !important;
-    background-color: #70947a !important;
+    background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
@@ -55,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: 30 30 0 3 grey; !important;
+    box-shadow: 90 30 3 3 black; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -74,17 +74,17 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: #add6de !important; 
     color: #36c75c !important; 
 }
-.user p, .user span, .user strong { color: #fbff00 !important; }
+.user p, .user span, .user strong { color: #000000 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
     background-color: #cfc8cd !important; 
     background: #cfc8cd !important;
-    color: #ff00fb !important; 
+    color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
-    background-color: #C4B4C8 !important;
-    background: #C4B4C8 !important;
-    color: #2A2235 !important;
+    background-color: #d4ced6 !important;
+    background: #d4ced6 !important;
+    color: #000000 !important;
     border: none !important;
     box-shadow: none !important;
 }
@@ -138,8 +138,9 @@ with gr.Blocks( ) as demo:
 
         with gr.Column(scale=5):
             gr.Markdown("<h1 style='color:#ffffff; margin: 0;'>BayouCare</h1>")
-            gr.Markdown("<p style='color: #6f42c1; font-weight: 500;'>Your AI guide for women and girls to discover scholarships, internships, STEM programs, research opportunities, hackathons, competitions, mentorship, and career guidance.</p>")
-    gr.ChatInterface(respond,
+            gr.Markdown("<p style='color: #6f42c1; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
+""""
+        gr.ChatInterface(respond,
                 examples=[
                     "What STEM scholarships are available for high school seniors?",
                     "Can you suggest hackathons for beginners?",
@@ -147,6 +148,7 @@ with gr.Blocks( ) as demo:
                     "What summer research programs or internships are open now?"
                 ],
                 cache_examples=False)
+""""
 
 # 4. Launch the application
 demo.launch(theme=my_theme, css=custom_css)
