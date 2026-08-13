@@ -34,7 +34,7 @@ def respond(message, history):
 
     print(message)
 
-#code to get data from knowledge base & respond
+#code to get data from knowledge base & respond -----------------
 !pip install -q sentence-transformers
 from sentence_transformers import SentenceTransformer
 import torch
@@ -71,7 +71,7 @@ def get_top_chunks(query, chunk_embeddings, chunks):
     top_indices = torch.topk(similarities, k=3).indices
 
     top_chunks = []
-    for i in top_indices:
+    for i in top_indices: #split top_chunks line into only the name of clinic and the address
         chunk = chunks[i]
         fields = chunk.split(",")
         name = fields[0]
