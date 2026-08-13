@@ -83,7 +83,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: none !important;
     border: none !important;
-    box-shadow: 50 60 green; !important;
+    box-shadow: 50px 60px green; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -136,7 +136,7 @@ textarea::placeholder { color: #a2a4db !important; opacity: 0.6; }
 div[data-testid="block-container"] img { 
     background: transparent !important; 
     border: none !important; 
-    box-shadow: none !important; 
+    box-shadow: 30px 30px green !important; 
 }
 """
 
@@ -160,8 +160,6 @@ with gr.Blocks( ) as demo:
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
                 container=False,
-                height=90,
-                width= 90,
                 interactive=False
             )
 
