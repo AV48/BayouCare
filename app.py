@@ -46,8 +46,8 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(135deg, #92d6a4 0%, #acd1f2 100%) !important;
-    background-color: #a85e32 !important;
+    background-image: linear-gradient(135deg, #70947a 0%, #8095a8 100%) !important;
+    background-color: #ff8800 !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
@@ -55,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.12) !important;
+    box-shadow: inset 2px 2px 5px rgba(0,0,0,0.3) !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -66,13 +66,13 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #b2f0b1 !important;
-    background: #597b9e !important;
+    background: #92d6a4 !important;  
     border: 1px solid #00ff00 !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #C4B4C8 !important; 
-    color: #2A2235 !important; 
+    background-color: #1e4d2a !important; 
+    color: #36c75c !important; 
 }
 .user p, .user span, .user strong { color: #2A2235 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
