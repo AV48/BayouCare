@@ -35,8 +35,8 @@ def respond(message, history):
     print(message)
 
 my_theme = gr.themes.Soft(
-    primary_hue="purple",
-    secondary_hue="violet"
+    primary_hue="blue",
+    secondary_hue="green"
 )
 
 
@@ -45,7 +45,7 @@ custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
     background-image: linear-gradient(135deg, #736686 0%, #9889A5 100%) !important;
-    background-color: #f2f1f6 !important;
+    background-color: #32a852 !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
