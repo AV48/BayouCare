@@ -34,6 +34,62 @@ def respond(message, history):
 
     print(message)
 
+#code to get data from knowledge base & respond
+!pip install -q sentence-transformers
+from sentence_transformers import SentenceTransformer
+import torch
+with open('Untitled spreadsheet - Sheet1.csv', mode='r', encoding='utf-8') as file:
+    knowledge_base = file.read()
+
+text = knowledge_base.strip("Site Name,Services Delivered at Site,Health Center Type,Health Center Location Type,Health Center Location Setting,State,Address,City,ZIP")
+
+chunks = text.split("\n")
+print(type(chunks))
+# Load the pre-trained embedding model that converts text to vectors
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+def create_embeddings(chunks):
+  # Convert each text chunk into a vector embedding and store as a tensor
+  chunk_embeddings = model.encode(chunks, convert_to_tensor=True) # Replace ... with the cleaned_chunks list
+
+  # Print the chunk embeddings
+  print(chunk_embeddings)
+
+  # Print the shape of chunk_embeddings
+  print(chunk_embeddings.shape)
+
+  # Return the chunk_embeddings
+  return chunk_embeddings
+
+# Call the create_embeddings function and store the result in a new chunk_embeddings variable
+chunk_embeddings = create_embeddings(chunks) # Complete this line
+def get_top_chunks(query, chunk_embeddings, chunks):
+    query_embedding = model.encode(query, convert_to_tensor=True)
+    query_embedding_normalized = query_embedding / query_embedding.norm()
+    chunk_embeddings_normalized = chunk_embeddings / chunk_embeddings.norm(dim=1, keepdim=True)
+    similarities = torch.matmul(chunk_embeddings_normalized, query_embedding_normalized)
+    top_indices = torch.topk(similarities, k=3).indices
+
+    top_chunks = []
+    for i in top_indices:
+        chunk = chunks[i]
+        fields = chunk.split(",")
+        name = fields[0]
+        address = fields[6]
+        top_chunks.append((name, address))
+    return top_chunks
+
+# Call it
+question = str(input("Hello! My name is Bayou, an AI designed to help you find low-cost healthcare near you in Louisiana. How can I help you today?"))
+top_results = get_top_chunks(question, chunk_embeddings, chunks)
+
+# Format as a chatbot-style reply
+response = "Here are a few clinics that might help:\n\n"
+for name, address in top_results:
+    response += f"{name} is located at {address}. "
+
+print(response)
+
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
@@ -109,7 +165,7 @@ div[data-testid="block-container"] img {
     box-shadow: none !important; 
 }
 """
-
+"""
 # Initialize the interface
 with gr.Blocks( ) as demo:
 
@@ -153,39 +209,7 @@ df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 if "Hospital": 
     print(df[:546])
 
-'''
-with open("knowledgebase.txt", "r", encoding="utf-8") as file:
-    knowledgebase = file.read()
-
-def preprocess_text(text):
-    # Strip extra whitespace from the beginning and the end of the text
-    cleaned_text = text.strip()
-    
-    final_cleaned_text = cleaned_text.strip()
-
-    # Split the cleaned_text by every newline character (\n)
-    chunks = cleaned_text.split("\n")
-    
-    # Create an empty list to store cleaned chunks
-    cleaned_chunks = []
-    
-    # Write your for-in loop below to clean each chunk and add it to the cleaned_chunks list
-    for chunk in chunks:
-        stripped_chunk = chunk.strip()
-        if len(stripped_chunk) > 0:
-            cleaned_chunks.append(stripped_chunk)
-
-# Print cleaned_chunks
-  print(cleaned_chunks)
-
-# Print the length of cleaned_chunks
-  print(len(cleaned_chunks))
-
-# Return the cleaned_chunks
-  return cleaned_chunks
-'''
-
-
+"""
 
 chatbot = gr.ChatInterface(respond)
 
@@ -195,7 +219,3 @@ my_theme = gr.themes.Soft(
     secondary_hue="green"
 )
 
-
-
-# TODO: This is just a starting point! Customize the system prompt,
-# the model, and the interface to make this project your own!
