@@ -55,7 +55,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: 9 5 10 3 grey; !important;
+    box-shadow: 30 30 0 3 grey; !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -67,7 +67,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #ffffff !important;
     background: #a1f799 !important;  
-    border: 2px solid #ffffff !important;
+    border: 5px solid #ffffff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
