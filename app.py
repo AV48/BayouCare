@@ -118,7 +118,7 @@ with gr.Blocks( ) as demo:
 
     # 1. Cover Banner (Top)
     cover_image = gr.Image(
-        value="Screenshot 2026-08-12 233508.png",
+        value="Screenshot 2026-08-13 154216.png",
         show_label="BayouCare",
         container=False,
         height=90,
@@ -133,8 +133,8 @@ with gr.Blocks( ) as demo:
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
                 container=False,
-                height=120,
-                weight= 270,
+                height=90,
+                weight= 90,
                 interactive=False
             )
 
