@@ -122,7 +122,7 @@ with gr.Blocks( ) as demo:
         show_label=False,
         container=False,
         height=200,
-        width = 270
+        width = 270,
         interactive=False
     )
 
