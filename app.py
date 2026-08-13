@@ -62,12 +62,12 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background: transparent !important;
 }
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
-    color: green !important;
+    color: white !important;
 }
-.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="chatbot"], .gradio-chatbot, .chat-view {
+.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #b2f0b1 !important;
-    background: #94abd4 !important;
-    border: 1px solid #736686 !important;
+    background: #597b9e !important;
+    border: 1px solid #00ff00 !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
