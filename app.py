@@ -138,7 +138,7 @@ div[data-testid="block-container"] img {
     border: none !important; 
     box-shadow: none !important; 
 }
-
+"""
 
 # Initialize the interface
 with gr.Blocks( ) as demo:
