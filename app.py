@@ -63,8 +63,8 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: light green !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="chatbot"], .gradio-chatbot, .chat-view {
-    background-color: #A696B3 !important;
-    background: #A696B3 !important;
+    background-color: #b2f0b1 !important;
+    background: #94abd4 !important;
     border: 1px solid #736686 !important;
     border-radius: 12px !important;
 }
