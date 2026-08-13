@@ -23,7 +23,8 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 def create_embeddings(chunks):
   # Convert each text chunk into a vector embedding and store as a tensor
   chunk_embeddings = model.encode(chunks, convert_to_tensor=True) # Replace ... with the cleaned_chunks list
-
+  return chunk_embeddings
+    
 # Call the create_embeddings function and store the result in a new chunk_embeddings variable
 chunk_embeddings = create_embeddings(chunks) # Complete this line
 
@@ -62,14 +63,7 @@ def respond(message, history):
     )
         
     return response.choices[0].message.content.strip()
-
-    print(message)
-
-
-
-print(response)
-
-
+    
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
