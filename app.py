@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#add8ff 40%, #ffffff 50%) !important;
+    background-image: linear-gradient(90deg,#add8ff 20%, #ffffff 110%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -128,12 +128,13 @@ with gr.Blocks( ) as demo:
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=8, min_width=180):
+        with gr.Column(scale=1, min_width=180):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
                 container=False,
                 height=120,
+                weight= 270,
                 interactive=False
             )
 
