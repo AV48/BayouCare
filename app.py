@@ -35,7 +35,6 @@ def respond(message, history):
     print(message)
 
 #code to get data from knowledge base & respond -----------------
-pip install -q sentence-transformers
 from sentence_transformers import SentenceTransformer
 import torch
 with open('Untitled spreadsheet - Sheet1.csv', mode='r', encoding='utf-8') as file:
