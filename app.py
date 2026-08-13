@@ -33,7 +33,7 @@ def respond(message, history):
     return response.choices[0].message.content.strip()
 
     print(message)
-
+'''
 #code to get data from knowledge base & respond -----------------
 from sentence_transformers import SentenceTransformer
 import torch
@@ -88,7 +88,7 @@ for name, address in top_results:
     response += f"{name} is located at {address}. "
 
 print(response)
-
+'''
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
