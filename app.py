@@ -6,34 +6,8 @@ import pandas as pd
 #import googlemaps
 
 
-# This is the same pattern from the Generative AI lesson! It uses the
-# Inference Provider API to send your messages to an AI model and get
-# a response back. Swap out the model below for a different one if
-# you want to experiment!
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
-# Note: if this Space doesn't already have one, you'll need to add an
-# HF_TOKEN secret in the Space's Settings tab for this to work
-# (Settings -> Variables and secrets -> New secret).
 
-def respond(message, history):
-    
-    messages = [{"role": "system", "content": "You are a friendly chatbot who says a positive comment before replying"}]
-
-    if history:
-        messages.extend(history)
-
-    messages.append({"role": "user", "content": message})
-
-    response = client.chat_completion(
-        messages,
-        max_tokens=100,
-        temperature = 1
-    )
-        
-    return response.choices[0].message.content.strip()
-
-    print(message)
-'''
 #code to get data from knowledge base & respond -----------------
 from sentence_transformers import SentenceTransformer
 import torch
@@ -41,9 +15,8 @@ with open('Untitled spreadsheet - Sheet1.csv', mode='r', encoding='utf-8') as fi
     knowledge_base = file.read()
 
 text = knowledge_base.strip("Site Name,Services Delivered at Site,Health Center Type,Health Center Location Type,Health Center Location Setting,State,Address,City,ZIP")
-
 chunks = text.split("\n")
-print(type(chunks))
+
 # Load the pre-trained embedding model that converts text to vectors
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -51,17 +24,9 @@ def create_embeddings(chunks):
   # Convert each text chunk into a vector embedding and store as a tensor
   chunk_embeddings = model.encode(chunks, convert_to_tensor=True) # Replace ... with the cleaned_chunks list
 
-  # Print the chunk embeddings
-  print(chunk_embeddings)
-
-  # Print the shape of chunk_embeddings
-  print(chunk_embeddings.shape)
-
-  # Return the chunk_embeddings
-  return chunk_embeddings
-
 # Call the create_embeddings function and store the result in a new chunk_embeddings variable
 chunk_embeddings = create_embeddings(chunks) # Complete this line
+
 def get_top_chunks(query, chunk_embeddings, chunks):
     query_embedding = model.encode(query, convert_to_tensor=True)
     query_embedding_normalized = query_embedding / query_embedding.norm()
@@ -78,17 +43,33 @@ def get_top_chunks(query, chunk_embeddings, chunks):
         top_chunks.append((name, address))
     return top_chunks
 
-# Call it
-question = str(input("Hello! My name is Bayou, an AI designed to help you find low-cost healthcare near you in Louisiana. How can I help you today?"))
-top_results = get_top_chunks(question, chunk_embeddings, chunks)
+# chatbot response function
+def respond(message, history):
+    top_results = get_top_chunks(message, chunk_embeddings, chunks)
+    clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
+    
+    messages = [{"role": "system", "content": "You are Bayou, a friendly chatbot that helps patients fine lower cost healthcare in Louisiana. Use the knowledge base provided to answer the question. Initiate conversation by asking if the user needs help first."}]
 
-# Format the response
-response = "Here are a few clinics that might help:\n\n"
-for name, address in top_results:
-    response += f"{name} is located at {address}. "
+    if history:
+        messages.extend(history)
+
+    messages.append({"role": "user", "content": message})
+
+    response = client.chat_completion(
+        messages,
+        max_tokens=100,
+        temperature = 1
+    )
+        
+    return response.choices[0].message.content.strip()
+
+    print(message)
+
+
 
 print(response)
-'''
+
+
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
