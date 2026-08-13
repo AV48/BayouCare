@@ -46,7 +46,7 @@ my_theme = gr.themes.Soft(
 custom_css = """
 /* MAIN BACKGROUND */
 :root, html, body, #root, [class*="gradio-container"] { 
-    background-image: linear-gradient(90deg,#fcfffd 95%, #add8ff 5%) !important;
+    background-image: linear-gradient(90deg,#add8ff 5%, #fcfffd 95%) !important;
     background-color: #ffffff !important;
 }
 div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs, 
@@ -65,13 +65,13 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: white !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
-    background-color: #152f59 !important;
+    background-color: #ffe600 !important;
     background: #ffffff !important;  
     border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #4f97e3 !important; 
+    background-color: #00fff2 !important; 
     color: #5cc9ff !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
@@ -82,8 +82,8 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
-    background-color: #8cf3f5 !important;
-    background: #8cf3f5 !important;
+    background-color: #c6f4f5!important;
+    background: #c6f4f5 !important;
     color: #000000 !important;
     border: none !important;
     box-shadow: 30 30 !important;
@@ -122,13 +122,13 @@ with gr.Blocks( ) as demo:
         show_label=False,
         container=False,
         height=200,
-        width = 270,
+        width = 40,
         interactive=False
     )
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=1, min_width=80):
+        with gr.Column(scale=1, min_width=180):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
@@ -138,8 +138,8 @@ with gr.Blocks( ) as demo:
             )
 
         with gr.Column(scale=5):
-            gr.Markdown("<h1 style='color:#ffffff; margin: 0;'>BayouCare</h1>")
-            gr.Markdown("<p style='color: #6f42c1; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
+            gr.Markdown("<h1 style='color:#000000; margin: 0;'>BayouCare</h1>")
+            gr.Markdown("<p style='color: #000000; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
 
         gr.ChatInterface(respond,
                 examples=[
