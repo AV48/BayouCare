@@ -66,20 +66,20 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #ffffff !important;
-    background: #a1f799 !important;  
-    border: 5px solid #ffffff !important;
+    background: #c5fac0 !important;  
+    border: 3px solid #ffffff !important;
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #1e4d2a !important; 
+    background-color: #add6de !important; 
     color: #36c75c !important; 
 }
-.user p, .user span, .user strong { color: #2A2235 !important; }
+.user p, .user span, .user strong { color: #fbff00 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
-    background-color: #E0CFDB !important; 
-    background: #E0CFDB !important;
-    color: #2A2235 !important; 
+    background-color: #cfc8cd !important; 
+    background: #cfc8cd !important;
+    color: #ff00fb !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
     background-color: #C4B4C8 !important;
