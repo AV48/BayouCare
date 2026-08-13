@@ -51,7 +51,7 @@ div[class*="row"], div[class*="column"], [data-testid="block-container"], .tabs,
 div[class*="gap"], .form, .block, [class*="gr-box"], [class*="gr-panel"], .metadata, 
 div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="prose"] {
     background-color: transparent !important;
-    background: brown !important;
+    background: none !important;
     border: none !important;
     box-shadow: 50 60 green; !important;
 }
