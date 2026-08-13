@@ -130,10 +130,10 @@ with gr.Blocks( ) as demo:
     with gr.Row():
         with gr.Column(scale=1, min_width=80):
             logo = gr.Image(
-                value="logo.png",
+                value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
                 container=False,
-                height=80,
+                height=90,
                 interactive=False
             )
 
@@ -143,10 +143,7 @@ with gr.Blocks( ) as demo:
 
         gr.ChatInterface(respond,
                 examples=[
-                    "What STEM scholarships are available for high school seniors?",
-                    "Can you suggest hackathons for beginners?",
-                    "How do I find career guidance or mentorship in tech?",
-                    "What summer research programs or internships are open now?"
+                    "Where could I find free healthcare services near 8585 Archives Ave, Baton Rouge, LA 70809?",
                 ],
                 cache_examples=False)
 
