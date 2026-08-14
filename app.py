@@ -158,8 +158,8 @@ with gr.Blocks( ) as demo:
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
-                width= 200,
-                height= 200,
+                width= 250,
+                height= 250,
                 container=False,
                 interactive=False
             )
@@ -181,8 +181,6 @@ demo.launch(theme=my_theme, css=custom_css)
 df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
 if "Hospital": 
     print(df[:546])
-
-
 
 chatbot = gr.ChatInterface(respond)
 
