@@ -7,14 +7,15 @@ import pandas as pd
 
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
-'''
+
 #code to get data from knowledge base & respond -----------------
 from sentence_transformers import SentenceTransformer
 import torch
 with open('Untitled spreadsheet - Sheet1.csv', mode='r', encoding='utf-8') as file:
     knowledge_base = file.read()
 
-text = knowledge_base.strip("Site Name,Services Delivered at Site,Health Center Type,Health Center Location Type,Health Center Location Setting,State,Address,City,ZIP")
+new_text = knowledge_base.strip("Site Name,Services Delivered at Site,Health Center Type,Health Center Location Type,Health Center Location Setting,State,Address,City,ZIP")
+text = new_text.strip(",")
 chunks = text.split("\n")
 
 # Load the pre-trained embedding model that converts text to vectors
@@ -43,11 +44,11 @@ def get_top_chunks(query, chunk_embeddings, chunks):
         address = fields[6]
         top_chunks.append((name, address))
     return top_chunks
-'''
+
 # chatbot response function
 def respond(message, history):
-  #  top_results = get_top_chunks(message, chunk_embeddings, chunks)
-  #  clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
+    top_results = get_top_chunks(message, chunk_embeddings, chunks)
+    clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
     
     messages = [{"role": "system", "content": "You are Bayou, a friendly chatbot that helps patients fine lower cost healthcare in Louisiana. Use the knowledge base provided to answer the question. Initiate conversation by asking if the user needs help first."}]
 
