@@ -99,7 +99,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #d0f5d3 !important; 
+    background-color: #9af5a1 !important; 
     color: #000000 !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
