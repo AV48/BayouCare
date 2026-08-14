@@ -106,7 +106,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
     background-color: #000000 !important; 
-    background: #000000 !important;                              
+    background: #b8f2c3 !important;                              
     color: #080708 !important; 
 }
 .chat-suggestions button, [class*="suggestion"], .chatbot .slots button, .form button.primary, .examples button, .example-btn, button[class*="slot"] {
@@ -119,7 +119,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 textarea, div[class*="input-box"], .input-container {
     background-color: #aef2fc !important;
     background: #aef2fc !important;
-    color: #abffa8 !important;
+    color: #000000 !important;
     border: 1px solid #0a8a7d !important;
     border-radius: 8px !important;
 }
