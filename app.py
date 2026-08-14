@@ -155,7 +155,7 @@ with gr.Blocks( ) as demo:
         value="correct one.png",
         show_label="BayouCare",
         container=False,
-        height = 200,
+        height = 100,
         interactive=False
     )
 
