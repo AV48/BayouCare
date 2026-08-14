@@ -86,8 +86,8 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     box-shadow: 20px 10px 40 green !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
-    background-color: #ff0022 !important;
-    background: #ff0022 !important;
+    background-color: transparent !important;
+    background: transparent !important;
 }
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
     color: #0c3c69 !important;
