@@ -143,7 +143,6 @@ div[data-testid="block-container"] img {
 # Initialize the interface
 with gr.Blocks( ) as demo:
 
-
     # 1. Cover Banner (Top)
     cover_image = gr.Image(
         value="correct one.png",
@@ -159,13 +158,13 @@ with gr.Blocks( ) as demo:
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
-                width= 170,
-                height= 170,
+                width= 180,
+                height= 180,
                 container=False,
                 interactive=False
             )
 
-        with gr.Column(scale=1):
+        with gr.Column(scale=3):
             gr.Markdown("<h1 style='color:#000000; margin: 0;'>BayouCare</h1>")
             gr.Markdown("<p style='color: #000000; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
 
@@ -188,8 +187,9 @@ if "Hospital":
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
+''''
 my_theme = gr.themes.Soft(
     primary_hue="blue",
     secondary_hue="green"
 )
-
+'''
