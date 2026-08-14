@@ -155,7 +155,7 @@ with gr.Blocks( ) as demo:
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=4, min_width=120):
+        with gr.Column(scale=1, min_width=120):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
@@ -163,7 +163,7 @@ with gr.Blocks( ) as demo:
                 interactive=False
             )
 
-        with gr.Column(scale=5):
+        with gr.Column(scale=1):
             gr.Markdown("<h1 style='color:#000000; margin: 0;'>BayouCare</h1>")
             gr.Markdown("<p style='color: #000000; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
 
