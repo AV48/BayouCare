@@ -92,11 +92,9 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
     color: #0c3c69 !important;
 }
-.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view, .rectangle {
+.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view, {
     background-color: #ffe600 !important;
     background: #ffffff !important;  
-    width: 230;
-    height: 250;
     border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
 }
@@ -157,7 +155,7 @@ with gr.Blocks( ) as demo:
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=1, min_width=180):
+        with gr.Column(scale=4, min_width=120):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
