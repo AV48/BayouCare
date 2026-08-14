@@ -166,7 +166,7 @@ with gr.Blocks( ) as demo:
 
         with gr.Column(scale=3):
             gr.Markdown("<h1 style='color:#000000; margin: 0;'>BayouCare</h1>")
-            gr.Markdown("<p style='color: #000000; font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
+            gr.Markdown("<p style='color: #000000;background=#ff00bb font-weight: 500;'> Hey! I'm Bayou, a chatbot designed to help you find low-cost and free health resources near you! Please enter your location and budget available so I can find resources near you! </p>")
 
         gr.ChatInterface(respond,
                 examples=[
