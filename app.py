@@ -95,6 +95,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
     background-color: #ffe600 !important;
     background: #ffffff !important;  
+    width: 250px;
     border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
 }
