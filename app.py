@@ -11,12 +11,18 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 #code to get data from knowledge base & respond -----------------
 from sentence_transformers import SentenceTransformer
 import torch
-with open('Untitled spreadsheet - Sheet1.csv', mode='r', encoding='utf-8') as file:
-    knowledge_base = file.read()
 
-new_text = knowledge_base.strip("Site Name,Services Delivered at Site,Health Center Type,Health Center Location Type,Health Center Location Setting,State,Address,City,ZIP")
-text = new_text.strip(",")
-chunks = text.split("\n")
+df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
+chunks = []
+
+for _, row in df.iterrows():
+    name = str(row["Site Name"])
+    address = str(row["Address"])
+    city = str(row["City"])
+    state = str(row["State"])
+    zip_code = str(row["ZIP"])
+    chunk = f"{name}|{address}|{city}|{state}|{zip_code}"
+    chunks.append(chunk)
 
 # Load the pre-trained embedding model that converts text to vectors
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -39,9 +45,9 @@ def get_top_chunks(query, chunk_embeddings, chunks):
     top_chunks = []
     for i in top_indices: #split top_chunks line into only the name of clinic and the address
         chunk = chunks[i]
-        fields = chunk.split(",")
+        fields = chunk.split("|")
         name = fields[0]
-        address = fields[6]
+        address = fields[1]
         top_chunks.append((name, address))
     return top_chunks
 
@@ -50,7 +56,7 @@ def respond(message, history):
     top_results = get_top_chunks(message, chunk_embeddings, chunks)
     clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
     
-    messages = [{"role": "system", "content": "You are Bayou, a friendly chatbot that helps patients fine lower cost healthcare in Louisiana. Use the knowledge base provided to answer the question. Initiate conversation by asking if the user needs help first."}]
+    messages = [{"role": "system", "content": """You are Bayou, a friendly chatbot that helps patients find lower-cost healthcare in Louisiana. Use the clinics provided below to answer questions. CLINICS:"""+clinic_info+"""Only use data from clinic_info to answer the question."""}]
 
     if history:
         messages.extend(history)
@@ -64,7 +70,7 @@ def respond(message, history):
     )
         
     return response.choices[0].message.content.strip()
-    
+
 # --- CSS code for details in Interface ---
 
 my_theme = gr.themes.Soft(
@@ -178,10 +184,6 @@ with gr.Blocks( ) as demo:
 
 # 4. Launch the application
 demo.launch(theme=my_theme, css=custom_css)
-
-df = pd.read_csv("Untitled spreadsheet - Sheet1.csv")
-if "Hospital": 
-    print(df[:546])
 
 chatbot = gr.ChatInterface(respond)
 
