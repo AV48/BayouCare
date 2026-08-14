@@ -155,7 +155,7 @@ with gr.Blocks( ) as demo:
 
     # 2. Logo & Header Title
     with gr.Row():
-        with gr.Column(scale=1, min_width=180):
+        with gr.Column(scale=1, min_width=90):
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
