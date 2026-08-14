@@ -158,8 +158,8 @@ with gr.Blocks( ) as demo:
             logo = gr.Image(
                 value="c9062b276c1567f4029e7939837b17ce-louisiana-retro-stroke-usa-states.webp",
                 show_label=False,
-                width= 180,
-                height= 180,
+                width= 200,
+                height= 200,
                 container=False,
                 interactive=False
             )
