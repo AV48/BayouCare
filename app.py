@@ -92,10 +92,11 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .gradio-container p, .gradio-container h1, .gradio-container h2, .gradio-container span, .gradio-container .markdown-text, .gradio-container label, .gradio-container h3 {
     color: #0c3c69 !important;
 }
-.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view {
+.chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view, .rectangle {
     background-color: #ffe600 !important;
     background: #ffffff !important;  
-    width: 250px;
+    width: 230;
+    height: 250;
     border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
 }
@@ -150,7 +151,7 @@ with gr.Blocks( ) as demo:
         value="correct one.png",
         show_label="BayouCare",
         container=False,
-        height = 140,
+        height = 200,
         interactive=False
     )
 
