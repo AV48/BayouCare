@@ -177,7 +177,7 @@ with gr.Blocks( ) as demo:
 
         gr.ChatInterface(respond,
                 examples=[
-                    "Where could I find free healthcare services near 8585 Archives Ave, Baton Rouge, LA 70809?",
+                    "Where can I find healthcare resources near Delhi, Louisiana?",
                 ],
                 cache_examples=False)
 
