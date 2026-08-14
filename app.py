@@ -114,7 +114,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background: #c6f4f5 !important;
     color: #000000 !important;
     border: none !important;
-    box-shadow: 20px 10px 40 green !important;
+    box-shadow: 20px 10px 40 #abffa8 !important;
 }
 textarea, div[class*="input-box"], .input-container {
     background-color: #aef2fc !important;
