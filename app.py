@@ -46,8 +46,8 @@ def get_top_chunks(query, chunk_embeddings, chunks):
 '''
 # chatbot response function
 def respond(message, history):
-    top_results = get_top_chunks(message, chunk_embeddings, chunks)
-    clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
+  #  top_results = get_top_chunks(message, chunk_embeddings, chunks)
+  #  clinic_info = "\n".join([f"{name} is located at {address}." for name, address in top_results])
     
     messages = [{"role": "system", "content": "You are Bayou, a friendly chatbot that helps patients fine lower cost healthcare in Louisiana. Use the knowledge base provided to answer the question. Initiate conversation by asking if the user needs help first."}]
 
@@ -93,7 +93,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     color: #0c3c69 !important;
 }
 .chatbot, .message-wrap, .bubble-wrap, div.message-list, div[id="Bachatbot"], .gradio-chatbot, .chat-view, {
-    background-color: #ffe600 !important;
+    background-color: #000000 !important;
     background: #ffffff !important;  
     border: 3px solid #5cc9ff !important;
     border-radius: 12px !important;
@@ -105,7 +105,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
 .user p, .user span, .user strong { color: #000000 !important; }
 .bot, [class*="bot"], .message.bot, blockquote, pre, code, .prose, 
 .bot p, .bot span, .bot strong, .bot li, .bot div { 
-    background-color: #ffaa00 !important; 
+    background-color: #000000 !important; 
     background: #b8f2c3 !important;
     color: #080708 !important; 
 }
