@@ -83,7 +83,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     background-color: transparent !important;
     background: none !important;
     border: none !important;
-    box-shadow: 20px 10px 40 green; !important;
+    box-shadow: 20px 10px 40 green !important;
 }
 .gradio-container .markdown-text, .gradio-container div[class*="prose"] {
     background-color: transparent !important;
@@ -99,7 +99,7 @@ div[class*="wrapper"], .padded, .gap, .container, .layout, fieldset, [class*="pr
     border-radius: 12px !important;
 }
 .user, [class*="user"], .message.user { 
-    background-color: #9af5a1 !important; 
+    background-color: #d0f5d3 !important; 
     color: #000000 !important; 
 }
 .user p, .user span, .user strong { color: #000000 !important; }
@@ -149,7 +149,7 @@ with gr.Blocks( ) as demo:
         value="Screenshot 2026-08-13 154216.png",
         show_label="BayouCare",
         container=False,
-        height = 380,
+        height = 360,
         interactive=False
     )
 
