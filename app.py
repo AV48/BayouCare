@@ -147,7 +147,7 @@ with gr.Blocks( ) as demo:
 
     # 1. Cover Banner (Top)
     cover_image = gr.Image(
-        value="Screenshot 2026-08-13 154216.png",
+        value="correct one.png",
         show_label="BayouCare",
         container=False,
         height = 140,
