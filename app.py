@@ -186,9 +186,9 @@ if "Hospital":
 chatbot = gr.ChatInterface(respond)
 
 chatbot.launch()
-''''
+
 my_theme = gr.themes.Soft(
     primary_hue="blue",
     secondary_hue="green"
 )
-'''
+
