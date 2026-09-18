@@ -1,14 +1,1 @@
----
-title: 4.4 - Group B1 - Capstone Project
-emoji: 🚀
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: '6.20.0'
-python_version: '3.13'
-app_file: app.py
-pinned: false
-short_description: KWK AI/ML Capstone · Camp 4.4 · Group B1 · Summer 2026
----
-
-This Space was created for the KWK AI/ML capstone project. Happy building!
+Created during the Kode With Klossy AI/ML Summer Camp. This is a generative AI chatbot that assists low-income Louisianians in finding affordable healthcare options. The user can input their address, and the chatbot will search through the knowledge base (a list of all the healthcare facilities in Louisiana) to recommend the user affordable and accessible facilities. 
